@@ -1,0 +1,1001 @@
+transaction_id,company,country,category,currency,local_amount,amount_usd,status,EmpresaX_fee_usd
+TXN-10000,Fintech Valley,Brazil,SaaS / Software,BRL,134.62,24.23,Approved,0.36
+TXN-10001,E-commerce LatAm,Brazil,Travel & Hotels,BRL,465.93,83.87,Approved,1.26
+TXN-10002,Cafe Colombia Corp,Colombia,Office Supplies,COP,337635.0,81.03,Approved,1.22
+TXN-10003,E-commerce LatAm,Mexico,Marketing,MXN,9638.22,501.19,Declined,7.52
+TXN-10004,E-commerce LatAm,Brazil,Office Supplies,BRL,1362.38,245.23,Approved,3.68
+TXN-10005,Logistica Mexico SA,Colombia,SaaS / Software,COP,262200.0,62.93,Approved,0.94
+TXN-10006,Cafe Colombia Corp,Mexico,Office Supplies,MXN,850.32,44.22,Approved,0.66
+TXN-10007,Cafe Colombia Corp,Brazil,Marketing,BRL,515.54,92.8,Approved,1.39
+TXN-10008,Cafe Colombia Corp,Mexico,Office Supplies,MXN,2340.24,121.69,Approved,1.83
+TXN-10009,E-commerce LatAm,Colombia,SaaS / Software,COP,36485.0,8.76,Approved,0.13
+TXN-10010,Fintech Valley,Brazil,Travel & Hotels,BRL,273.74,49.27,Approved,0.74
+TXN-10011,Cafe Colombia Corp,Mexico,Office Supplies,MXN,2777.01,144.4,Approved,2.17
+TXN-10012,E-commerce LatAm,Brazil,SaaS / Software,BRL,252.12,45.38,Declined,0.68
+TXN-10013,Logistica Mexico SA,Mexico,SaaS / Software,MXN,1302.51,67.73,Approved,1.02
+TXN-10014,Fintech Valley,Colombia,Marketing,COP,226545.0,54.37,Approved,0.82
+TXN-10015,Logistica Mexico SA,Colombia,Marketing,COP,55980.0,13.44,Approved,0.2
+TXN-10016,Fintech Valley,Brazil,Office Supplies,BRL,234.89,42.28,Approved,0.63
+TXN-10017,E-commerce LatAm,Mexico,Travel & Hotels,MXN,640.86,33.32,Declined,0.5
+TXN-10018,TechInnovate BR,Brazil,SaaS / Software,BRL,23.27,4.19,Approved,0.06
+TXN-10019,Fintech Valley,Brazil,Office Supplies,BRL,22.24,4.0,Approved,0.06
+TXN-10020,Logistica Mexico SA,Mexico,SaaS / Software,MXN,2702.97,140.55,Approved,2.11
+TXN-10021,E-commerce LatAm,Mexico,SaaS / Software,MXN,508.38,26.44,Approved,0.4
+TXN-10022,Fintech Valley,Mexico,Travel & Hotels,MXN,1124.97,58.5,Approved,0.88
+TXN-10023,TechInnovate BR,Colombia,Travel & Hotels,COP,93715.0,22.49,Approved,0.34
+TXN-10024,TechInnovate BR,Brazil,Office Supplies,BRL,1422.4,256.03,Approved,3.84
+TXN-10025,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,160.08,28.81,Approved,0.43
+TXN-10026,Cafe Colombia Corp,Colombia,Travel & Hotels,COP,145380.0,34.89,Approved,0.52
+TXN-10027,Logistica Mexico SA,Mexico,Office Supplies,MXN,3122.16,162.35,Approved,2.44
+TXN-10028,Fintech Valley,Colombia,Travel & Hotels,COP,466185.0,111.88,Declined,1.68
+TXN-10029,Fintech Valley,Colombia,Marketing,COP,56480.0,13.56,Approved,0.2
+TXN-10030,Cafe Colombia Corp,Colombia,SaaS / Software,COP,410685.0,98.56,Approved,1.48
+TXN-10031,Fintech Valley,Brazil,SaaS / Software,BRL,316.42,56.96,Approved,0.85
+TXN-10032,Fintech Valley,Colombia,SaaS / Software,COP,169915.0,40.78,Approved,0.61
+TXN-10033,TechInnovate BR,Brazil,SaaS / Software,BRL,81.64,14.7,Approved,0.22
+TXN-10034,Cafe Colombia Corp,Brazil,Office Supplies,BRL,52.02,9.36,Declined,0.14
+TXN-10035,E-commerce LatAm,Brazil,SaaS / Software,BRL,660.87,118.96,Approved,1.78
+TXN-10036,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,1059.15,55.08,Approved,0.83
+TXN-10037,E-commerce LatAm,Brazil,SaaS / Software,BRL,297.11,53.48,Approved,0.8
+TXN-10038,TechInnovate BR,Brazil,SaaS / Software,BRL,663.76,119.48,Approved,1.79
+TXN-10039,Logistica Mexico SA,Mexico,Marketing,MXN,2205.54,114.69,Approved,1.72
+TXN-10040,Fintech Valley,Brazil,SaaS / Software,BRL,96.53,17.38,Approved,0.26
+TXN-10041,TechInnovate BR,Colombia,Marketing,COP,240545.0,57.73,Approved,0.87
+TXN-10042,Fintech Valley,Colombia,Office Supplies,COP,41360.0,9.93,Approved,0.15
+TXN-10043,Logistica Mexico SA,Brazil,Travel & Hotels,BRL,705.9,127.06,Approved,1.91
+TXN-10044,Logistica Mexico SA,Mexico,SaaS / Software,MXN,1634.85,85.01,Approved,1.28
+TXN-10045,TechInnovate BR,Colombia,Travel & Hotels,COP,789410.0,189.46,Approved,2.84
+TXN-10046,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,137.19,7.13,Approved,0.11
+TXN-10047,E-commerce LatAm,Mexico,Office Supplies,MXN,118.11,6.14,Approved,0.09
+TXN-10048,Logistica Mexico SA,Colombia,Travel & Hotels,COP,87885.0,21.09,Approved,0.32
+TXN-10049,Fintech Valley,Mexico,Marketing,MXN,485.13,25.23,Approved,0.38
+TXN-10050,Fintech Valley,Colombia,Travel & Hotels,COP,75915.0,18.22,Approved,0.27
+TXN-10051,Fintech Valley,Mexico,Travel & Hotels,MXN,3580.77,186.2,Approved,2.79
+TXN-10052,Fintech Valley,Colombia,Travel & Hotels,COP,76770.0,18.42,Approved,0.28
+TXN-10053,E-commerce LatAm,Brazil,SaaS / Software,BRL,168.69,30.36,Approved,0.46
+TXN-10054,Cafe Colombia Corp,Colombia,SaaS / Software,COP,361155.0,86.68,Approved,1.3
+TXN-10055,TechInnovate BR,Colombia,Marketing,COP,154340.0,37.04,Approved,0.56
+TXN-10056,Fintech Valley,Colombia,Marketing,COP,379820.0,91.16,Approved,1.37
+TXN-10057,Logistica Mexico SA,Colombia,SaaS / Software,COP,21900.0,5.26,Approved,0.08
+TXN-10058,Fintech Valley,Mexico,Marketing,MXN,1032.9,53.71,Approved,0.81
+TXN-10059,Logistica Mexico SA,Brazil,SaaS / Software,BRL,27.1,4.88,Approved,0.07
+TXN-10060,Logistica Mexico SA,Colombia,Office Supplies,COP,21175.0,5.08,Approved,0.08
+TXN-10061,Fintech Valley,Mexico,Travel & Hotels,MXN,3583.68,186.35,Approved,2.8
+TXN-10062,E-commerce LatAm,Brazil,Travel & Hotels,BRL,84.97,15.29,Approved,0.23
+TXN-10063,Logistica Mexico SA,Brazil,Marketing,BRL,390.09,70.22,Approved,1.05
+TXN-10064,Logistica Mexico SA,Brazil,SaaS / Software,BRL,274.75,49.46,Approved,0.74
+TXN-10065,Fintech Valley,Brazil,SaaS / Software,BRL,223.35,40.2,Approved,0.6
+TXN-10066,Logistica Mexico SA,Colombia,Marketing,COP,580230.0,139.26,Approved,2.09
+TXN-10067,Logistica Mexico SA,Colombia,SaaS / Software,COP,10515.0,2.52,Approved,0.04
+TXN-10068,Fintech Valley,Mexico,Office Supplies,MXN,1665.03,86.58,Approved,1.3
+TXN-10069,Fintech Valley,Mexico,Travel & Hotels,MXN,4991.34,259.55,Approved,3.89
+TXN-10070,TechInnovate BR,Mexico,Marketing,MXN,1262.04,65.63,Approved,0.98
+TXN-10071,E-commerce LatAm,Brazil,Marketing,BRL,1390.9,250.36,Approved,3.76
+TXN-10072,E-commerce LatAm,Brazil,SaaS / Software,BRL,36.84,6.63,Approved,0.1
+TXN-10073,Logistica Mexico SA,Colombia,Marketing,COP,140660.0,33.76,Approved,0.51
+TXN-10074,E-commerce LatAm,Brazil,Office Supplies,BRL,160.66,28.92,Approved,0.43
+TXN-10075,Logistica Mexico SA,Brazil,SaaS / Software,BRL,666.19,119.91,Declined,1.8
+TXN-10076,TechInnovate BR,Brazil,SaaS / Software,BRL,1999.54,359.92,Approved,5.4
+TXN-10077,Fintech Valley,Mexico,SaaS / Software,MXN,474.63,24.68,Approved,0.37
+TXN-10078,Fintech Valley,Mexico,SaaS / Software,MXN,1622.73,84.38,Approved,1.27
+TXN-10079,Fintech Valley,Colombia,Office Supplies,COP,60190.0,14.45,Approved,0.22
+TXN-10080,E-commerce LatAm,Brazil,SaaS / Software,BRL,426.58,76.78,Approved,1.15
+TXN-10081,TechInnovate BR,Brazil,Marketing,BRL,321.75,57.92,Approved,0.87
+TXN-10082,E-commerce LatAm,Colombia,Office Supplies,COP,898935.0,215.74,Approved,3.24
+TXN-10083,E-commerce LatAm,Brazil,Travel & Hotels,BRL,478.92,86.21,Approved,1.29
+TXN-10084,TechInnovate BR,Brazil,Travel & Hotels,BRL,225.01,40.5,Approved,0.61
+TXN-10085,TechInnovate BR,Mexico,Marketing,MXN,211.71,11.01,Approved,0.17
+TXN-10086,TechInnovate BR,Colombia,Marketing,COP,45995.0,11.04,Refunded,0.17
+TXN-10087,TechInnovate BR,Colombia,Office Supplies,COP,68825.0,16.52,Approved,0.25
+TXN-10088,Fintech Valley,Colombia,Travel & Hotels,COP,77245.0,18.54,Approved,0.28
+TXN-10089,Cafe Colombia Corp,Colombia,Travel & Hotels,COP,480310.0,115.27,Approved,1.73
+TXN-10090,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,1265.64,65.81,Declined,0.99
+TXN-10091,TechInnovate BR,Mexico,Travel & Hotels,MXN,1141.59,59.36,Approved,0.89
+TXN-10092,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,70.95,12.77,Approved,0.19
+TXN-10093,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,993.56,178.84,Approved,2.68
+TXN-10094,TechInnovate BR,Brazil,Marketing,BRL,651.53,117.28,Approved,1.76
+TXN-10095,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,45.03,8.11,Approved,0.12
+TXN-10096,E-commerce LatAm,Mexico,Travel & Hotels,MXN,1875.66,97.53,Approved,1.46
+TXN-10097,Logistica Mexico SA,Colombia,Office Supplies,COP,201065.0,48.26,Approved,0.72
+TXN-10098,Logistica Mexico SA,Mexico,Office Supplies,MXN,157.89,8.21,Approved,0.12
+TXN-10099,TechInnovate BR,Brazil,Travel & Hotels,BRL,316.52,56.97,Approved,0.85
+TXN-10100,Fintech Valley,Mexico,Travel & Hotels,MXN,1024.5,53.27,Approved,0.8
+TXN-10101,TechInnovate BR,Colombia,Office Supplies,COP,50315.0,12.08,Approved,0.18
+TXN-10102,Fintech Valley,Colombia,SaaS / Software,COP,733300.0,175.99,Approved,2.64
+TXN-10103,Logistica Mexico SA,Mexico,SaaS / Software,MXN,2875.44,149.52,Approved,2.24
+TXN-10104,TechInnovate BR,Mexico,Travel & Hotels,MXN,1688.55,87.8,Declined,1.32
+TXN-10105,E-commerce LatAm,Mexico,SaaS / Software,MXN,960.66,49.95,Approved,0.75
+TXN-10106,Cafe Colombia Corp,Brazil,Office Supplies,BRL,275.31,49.56,Approved,0.74
+TXN-10107,Fintech Valley,Mexico,SaaS / Software,MXN,1608.9,83.66,Approved,1.25
+TXN-10108,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,1212.6,63.06,Declined,0.95
+TXN-10109,Cafe Colombia Corp,Mexico,Office Supplies,MXN,126.45,6.58,Approved,0.1
+TXN-10110,TechInnovate BR,Colombia,SaaS / Software,COP,184620.0,44.31,Approved,0.66
+TXN-10111,Cafe Colombia Corp,Colombia,Marketing,COP,415495.0,99.72,Approved,1.5
+TXN-10112,E-commerce LatAm,Brazil,Office Supplies,BRL,317.39,57.13,Approved,0.86
+TXN-10113,Cafe Colombia Corp,Brazil,Office Supplies,BRL,36.68,6.6,Approved,0.1
+TXN-10114,TechInnovate BR,Colombia,Marketing,COP,390770.0,93.78,Approved,1.41
+TXN-10115,E-commerce LatAm,Colombia,Marketing,COP,61210.0,14.69,Approved,0.22
+TXN-10116,Logistica Mexico SA,Colombia,Office Supplies,COP,79810.0,19.15,Declined,0.29
+TXN-10117,Cafe Colombia Corp,Mexico,Marketing,MXN,299.97,15.6,Approved,0.23
+TXN-10118,TechInnovate BR,Mexico,Travel & Hotels,MXN,631.2,32.82,Approved,0.49
+TXN-10119,Logistica Mexico SA,Colombia,Travel & Hotels,COP,358420.0,86.02,Approved,1.29
+TXN-10120,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,1129.05,58.71,Approved,0.88
+TXN-10121,Fintech Valley,Mexico,Office Supplies,MXN,373.89,19.44,Approved,0.29
+TXN-10122,E-commerce LatAm,Brazil,Marketing,BRL,1061.17,191.01,Approved,2.87
+TXN-10123,Cafe Colombia Corp,Colombia,Marketing,COP,534195.0,128.21,Approved,1.92
+TXN-10124,TechInnovate BR,Colombia,SaaS / Software,COP,516170.0,123.88,Approved,1.86
+TXN-10125,Fintech Valley,Mexico,SaaS / Software,MXN,439.29,22.84,Declined,0.34
+TXN-10126,E-commerce LatAm,Colombia,Marketing,COP,155025.0,37.21,Approved,0.56
+TXN-10127,Fintech Valley,Brazil,Marketing,BRL,2109.51,379.71,Approved,5.7
+TXN-10128,E-commerce LatAm,Brazil,Marketing,BRL,749.23,134.86,Declined,2.02
+TXN-10129,E-commerce LatAm,Brazil,Office Supplies,BRL,23.77,4.28,Approved,0.06
+TXN-10130,Cafe Colombia Corp,Colombia,Marketing,COP,21855.0,5.25,Approved,0.08
+TXN-10131,E-commerce LatAm,Colombia,SaaS / Software,COP,160875.0,38.61,Approved,0.58
+TXN-10132,Fintech Valley,Colombia,Office Supplies,COP,604830.0,145.16,Approved,2.18
+TXN-10133,E-commerce LatAm,Colombia,Marketing,COP,198430.0,47.62,Approved,0.71
+TXN-10134,Cafe Colombia Corp,Colombia,SaaS / Software,COP,177195.0,42.53,Approved,0.64
+TXN-10135,Cafe Colombia Corp,Brazil,Office Supplies,BRL,65.73,11.83,Approved,0.18
+TXN-10136,Fintech Valley,Mexico,Marketing,MXN,1634.07,84.97,Approved,1.27
+TXN-10137,Logistica Mexico SA,Brazil,Marketing,BRL,873.28,157.19,Approved,2.36
+TXN-10138,Logistica Mexico SA,Colombia,Marketing,COP,124680.0,29.92,Approved,0.45
+TXN-10139,E-commerce LatAm,Brazil,Office Supplies,BRL,757.19,136.29,Approved,2.04
+TXN-10140,TechInnovate BR,Colombia,SaaS / Software,COP,839390.0,201.45,Declined,3.02
+TXN-10141,E-commerce LatAm,Colombia,SaaS / Software,COP,61965.0,14.87,Approved,0.22
+TXN-10142,Fintech Valley,Brazil,Travel & Hotels,BRL,380.47,68.48,Approved,1.03
+TXN-10143,Fintech Valley,Colombia,Marketing,COP,89615.0,21.51,Approved,0.32
+TXN-10144,Fintech Valley,Mexico,Travel & Hotels,MXN,2391.51,124.36,Approved,1.87
+TXN-10145,Fintech Valley,Colombia,Travel & Hotels,COP,220445.0,52.91,Declined,0.79
+TXN-10146,Fintech Valley,Mexico,SaaS / Software,MXN,1540.08,80.08,Approved,1.2
+TXN-10147,Cafe Colombia Corp,Mexico,Office Supplies,MXN,2428.59,126.29,Approved,1.89
+TXN-10148,Logistica Mexico SA,Colombia,Office Supplies,COP,131035.0,31.45,Approved,0.47
+TXN-10149,Fintech Valley,Brazil,SaaS / Software,BRL,1243.08,223.75,Approved,3.36
+TXN-10150,TechInnovate BR,Mexico,Office Supplies,MXN,1172.22,60.96,Approved,0.91
+TXN-10151,TechInnovate BR,Brazil,Travel & Hotels,BRL,95.96,17.27,Approved,0.26
+TXN-10152,TechInnovate BR,Mexico,Marketing,MXN,1815.6,94.41,Approved,1.42
+TXN-10153,TechInnovate BR,Colombia,SaaS / Software,COP,399075.0,95.78,Approved,1.44
+TXN-10154,Cafe Colombia Corp,Colombia,Marketing,COP,100230.0,24.06,Approved,0.36
+TXN-10155,TechInnovate BR,Mexico,Office Supplies,MXN,2949.24,153.36,Approved,2.3
+TXN-10156,Fintech Valley,Colombia,Marketing,COP,596495.0,143.16,Approved,2.15
+TXN-10157,E-commerce LatAm,Mexico,Office Supplies,MXN,516.33,26.85,Approved,0.4
+TXN-10158,TechInnovate BR,Colombia,Office Supplies,COP,1031425.0,247.54,Approved,3.71
+TXN-10159,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,85.83,15.45,Approved,0.23
+TXN-10160,Cafe Colombia Corp,Colombia,Office Supplies,COP,61415.0,14.74,Approved,0.22
+TXN-10161,TechInnovate BR,Brazil,Travel & Hotels,BRL,111.81,20.13,Approved,0.3
+TXN-10162,E-commerce LatAm,Colombia,Travel & Hotels,COP,566055.0,135.85,Approved,2.04
+TXN-10163,TechInnovate BR,Brazil,Travel & Hotels,BRL,541.08,97.39,Approved,1.46
+TXN-10164,Cafe Colombia Corp,Colombia,SaaS / Software,COP,46250.0,11.1,Approved,0.17
+TXN-10165,Logistica Mexico SA,Brazil,SaaS / Software,BRL,300.2,54.04,Approved,0.81
+TXN-10166,Fintech Valley,Mexico,Office Supplies,MXN,1462.92,76.07,Approved,1.14
+TXN-10167,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,160.74,8.36,Approved,0.13
+TXN-10168,TechInnovate BR,Brazil,SaaS / Software,BRL,1080.3,194.45,Approved,2.92
+TXN-10169,Fintech Valley,Colombia,Travel & Hotels,COP,411905.0,98.86,Approved,1.48
+TXN-10170,TechInnovate BR,Brazil,Marketing,BRL,361.81,65.13,Approved,0.98
+TXN-10171,TechInnovate BR,Colombia,Marketing,COP,858775.0,206.11,Approved,3.09
+TXN-10172,Logistica Mexico SA,Mexico,Marketing,MXN,841.32,43.75,Approved,0.66
+TXN-10173,Fintech Valley,Colombia,Office Supplies,COP,1040520.0,249.72,Approved,3.75
+TXN-10174,Fintech Valley,Mexico,Travel & Hotels,MXN,1683.57,87.55,Approved,1.31
+TXN-10175,Logistica Mexico SA,Colombia,Marketing,COP,256740.0,61.62,Approved,0.92
+TXN-10176,Cafe Colombia Corp,Colombia,SaaS / Software,COP,50365.0,12.09,Approved,0.18
+TXN-10177,TechInnovate BR,Colombia,Marketing,COP,539115.0,129.39,Declined,1.94
+TXN-10178,E-commerce LatAm,Brazil,Marketing,BRL,288.86,51.99,Approved,0.78
+TXN-10179,TechInnovate BR,Brazil,Marketing,BRL,98.51,17.73,Approved,0.27
+TXN-10180,TechInnovate BR,Mexico,Office Supplies,MXN,49.02,2.55,Approved,0.04
+TXN-10181,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,1260.63,65.55,Declined,0.98
+TXN-10182,TechInnovate BR,Brazil,Travel & Hotels,BRL,384.75,69.26,Approved,1.04
+TXN-10183,Logistica Mexico SA,Mexico,SaaS / Software,MXN,1935.99,100.67,Approved,1.51
+TXN-10184,Logistica Mexico SA,Brazil,Travel & Hotels,BRL,1114.81,200.67,Approved,3.01
+TXN-10185,Fintech Valley,Colombia,Office Supplies,COP,25685.0,6.16,Approved,0.09
+TXN-10186,E-commerce LatAm,Mexico,Office Supplies,MXN,2002.35,104.12,Approved,1.56
+TXN-10187,TechInnovate BR,Mexico,Office Supplies,MXN,341.31,17.75,Approved,0.27
+TXN-10188,TechInnovate BR,Brazil,Office Supplies,BRL,986.59,177.59,Approved,2.66
+TXN-10189,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,2594.4,134.91,Approved,2.02
+TXN-10190,Logistica Mexico SA,Mexico,Marketing,MXN,1197.39,62.26,Declined,0.93
+TXN-10191,E-commerce LatAm,Colombia,Travel & Hotels,COP,314680.0,75.52,Approved,1.13
+TXN-10192,Fintech Valley,Mexico,SaaS / Software,MXN,596.07,31.0,Approved,0.46
+TXN-10193,Logistica Mexico SA,Colombia,Office Supplies,COP,164270.0,39.42,Approved,0.59
+TXN-10194,Fintech Valley,Brazil,Office Supplies,BRL,871.97,156.95,Approved,2.35
+TXN-10195,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,952.23,49.52,Approved,0.74
+TXN-10196,Cafe Colombia Corp,Colombia,Travel & Hotels,COP,115715.0,27.77,Approved,0.42
+TXN-10197,TechInnovate BR,Brazil,Marketing,BRL,350.82,63.15,Approved,0.95
+TXN-10198,E-commerce LatAm,Mexico,Marketing,MXN,2672.58,138.97,Approved,2.08
+TXN-10199,Fintech Valley,Brazil,SaaS / Software,BRL,214.14,38.55,Approved,0.58
+TXN-10200,Logistica Mexico SA,Mexico,Marketing,MXN,316.32,16.45,Approved,0.25
+TXN-10201,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,632.42,113.84,Approved,1.71
+TXN-10202,TechInnovate BR,Brazil,Travel & Hotels,BRL,884.29,159.17,Approved,2.39
+TXN-10203,TechInnovate BR,Colombia,SaaS / Software,COP,31515.0,7.56,Approved,0.11
+TXN-10204,Fintech Valley,Brazil,SaaS / Software,BRL,147.14,36672.1,Approved,550.08
+TXN-10205,Cafe Colombia Corp,Mexico,Office Supplies,MXN,259.68,13.5,Declined,0.2
+TXN-10206,E-commerce LatAm,Mexico,SaaS / Software,MXN,671.43,34.91,Approved,0.52
+TXN-10207,Cafe Colombia Corp,Colombia,Travel & Hotels,COP,154620.0,37.11,Approved,0.56
+TXN-10208,Fintech Valley,Mexico,SaaS / Software,MXN,2102.43,109.33,Approved,1.64
+TXN-10209,Fintech Valley,Mexico,Marketing,MXN,1609.65,83.7,Approved,1.26
+TXN-10210,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,1485.06,77.22,Approved,1.16
+TXN-10211,Fintech Valley,Brazil,Office Supplies,BRL,227.22,40.9,Approved,0.61
+TXN-10212,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,930.83,167.55,Approved,2.51
+TXN-10213,Logistica Mexico SA,Mexico,SaaS / Software,MXN,985.95,51.27,Approved,0.77
+TXN-10214,Cafe Colombia Corp,Colombia,SaaS / Software,COP,972060.0,233.29,Approved,3.5
+TXN-10215,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,512.76,92.3,Declined,1.38
+TXN-10216,Fintech Valley,Colombia,Office Supplies,COP,38745.0,9.3,Approved,0.14
+TXN-10217,Fintech Valley,Mexico,Office Supplies,MXN,1721.34,89.51,Approved,1.34
+TXN-10218,TechInnovate BR,Mexico,Office Supplies,MXN,619.8,32.23,Approved,0.48
+TXN-10219,TechInnovate BR,Brazil,SaaS / Software,BRL,589.7,106.15,Approved,1.59
+TXN-10220,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,138.27,7.19,Approved,0.11
+TXN-10221,TechInnovate BR,Brazil,Marketing,BRL,106.11,19.1,Approved,0.29
+TXN-10222,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,2934.18,152.58,Approved,2.29
+TXN-10223,Fintech Valley,Mexico,Office Supplies,MXN,416.55,21.66,Approved,0.32
+TXN-10224,TechInnovate BR,Brazil,Travel & Hotels,BRL,917.13,165.08,Approved,2.48
+TXN-10225,TechInnovate BR,Brazil,Office Supplies,BRL,173.75,31.28,Approved,0.47
+TXN-10226,Logistica Mexico SA,Brazil,Marketing,BRL,524.84,94.47,Approved,1.42
+TXN-10227,Logistica Mexico SA,Mexico,Office Supplies,MXN,1806.99,93.96,Approved,1.41
+TXN-10228,Cafe Colombia Corp,Mexico,Office Supplies,MXN,1108.17,57.62,Approved,0.86
+TXN-10229,Fintech Valley,Colombia,Marketing,COP,96075.0,23.06,Approved,0.35
+TXN-10230,Logistica Mexico SA,Brazil,Travel & Hotels,BRL,129.54,23.32,Approved,0.35
+TXN-10231,TechInnovate BR,Mexico,SaaS / Software,MXN,80.64,4.19,Approved,0.06
+TXN-10232,Fintech Valley,Mexico,Travel & Hotels,MXN,573.48,29.82,Approved,0.45
+TXN-10233,Fintech Valley,Brazil,Marketing,BRL,539.45,97.1,Approved,1.46
+TXN-10234,TechInnovate BR,Colombia,Office Supplies,COP,701385.0,168.33,Approved,2.52
+TXN-10235,Logistica Mexico SA,Brazil,Travel & Hotels,BRL,1034.76,186.26,Approved,2.79
+TXN-10236,TechInnovate BR,Colombia,SaaS / Software,COP,368180.0,88.36,Approved,1.33
+TXN-10237,Fintech Valley,Mexico,Marketing,MXN,2359.92,122.72,Approved,1.84
+TXN-10238,E-commerce LatAm,Colombia,Travel & Hotels,COP,278395.0,66.81,Approved,1.0
+TXN-10239,E-commerce LatAm,Mexico,SaaS / Software,MXN,482.25,25.08,Approved,0.38
+TXN-10240,Cafe Colombia Corp,Brazil,Marketing,BRL,1198.63,215.75,Approved,3.24
+TXN-10241,TechInnovate BR,Brazil,SaaS / Software,BRL,565.44,101.78,Declined,1.53
+TXN-10242,TechInnovate BR,Brazil,Marketing,BRL,420.99,75.78,Approved,1.14
+TXN-10243,Cafe Colombia Corp,Colombia,Office Supplies,COP,34410.0,8.26,Approved,0.12
+TXN-10244,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,918.75,47.78,Approved,0.72
+TXN-10245,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,318.42,57.32,Declined,0.86
+TXN-10246,Fintech Valley,Brazil,Marketing,BRL,1009.63,181.73,Approved,2.73
+TXN-10247,TechInnovate BR,Mexico,SaaS / Software,MXN,1216.62,63.26,Approved,0.95
+TXN-10248,Fintech Valley,Brazil,SaaS / Software,BRL,249.34,44.88,Approved,0.67
+TXN-10249,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,5675.43,295.12,Approved,4.43
+TXN-10250,TechInnovate BR,Mexico,Office Supplies,MXN,206.01,10.71,Approved,0.16
+TXN-10251,Fintech Valley,Mexico,SaaS / Software,MXN,853.71,44.39,Approved,0.67
+TXN-10252,Fintech Valley,Mexico,Marketing,MXN,94.41,4.91,Approved,0.07
+TXN-10253,Cafe Colombia Corp,Mexico,Marketing,MXN,2050.05,106.6,Approved,1.6
+TXN-10254,TechInnovate BR,Colombia,Office Supplies,COP,630495.0,151.32,Approved,2.27
+TXN-10255,Cafe Colombia Corp,Brazil,Marketing,BRL,174.28,31.37,Approved,0.47
+TXN-10256,TechInnovate BR,Colombia,Office Supplies,COP,493585.0,118.46,Approved,1.78
+TXN-10257,E-commerce LatAm,Brazil,Marketing,BRL,182.81,32.91,Approved,0.49
+TXN-10258,Logistica Mexico SA,Colombia,Travel & Hotels,COP,609135.0,146.19,Approved,2.19
+TXN-10259,Logistica Mexico SA,Mexico,SaaS / Software,MXN,2133.39,110.94,Approved,1.66
+TXN-10260,Logistica Mexico SA,Brazil,Travel & Hotels,BRL,827.14,148.89,Approved,2.23
+TXN-10261,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,19.09,3.44,Approved,0.05
+TXN-10262,E-commerce LatAm,Colombia,SaaS / Software,COP,827930.0,198.7,Approved,2.98
+TXN-10263,TechInnovate BR,Colombia,SaaS / Software,COP,329270.0,79.02,Approved,1.19
+TXN-10264,Fintech Valley,Brazil,Travel & Hotels,BRL,191.74,34.51,Approved,0.52
+TXN-10265,TechInnovate BR,Colombia,SaaS / Software,COP,447100.0,107.3,Approved,1.61
+TXN-10266,Fintech Valley,Colombia,Travel & Hotels,COP,87655.0,21.04,Approved,0.32
+TXN-10267,TechInnovate BR,Colombia,Office Supplies,COP,520410.0,124.9,Approved,1.87
+TXN-10268,E-commerce LatAm,Mexico,Marketing,MXN,209.16,10.88,Approved,0.16
+TXN-10269,Fintech Valley,Mexico,Marketing,MXN,1854.51,96.43,Approved,1.45
+TXN-10270,Cafe Colombia Corp,Colombia,SaaS / Software,COP,199510.0,47.88,Approved,0.72
+TXN-10271,TechInnovate BR,Colombia,Travel & Hotels,COP,30380.0,7.29,Approved,0.11
+TXN-10272,TechInnovate BR,Mexico,Marketing,MXN,445.41,23.16,Approved,0.35
+TXN-10273,Fintech Valley,Mexico,Travel & Hotels,MXN,48.72,2.53,Approved,0.04
+TXN-10274,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,326.28,58.73,Approved,0.88
+TXN-10275,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,189.24,34.06,Approved,0.51
+TXN-10276,E-commerce LatAm,Mexico,Marketing,MXN,1398.3,72.71,Approved,1.09
+TXN-10277,Cafe Colombia Corp,Colombia,SaaS / Software,COP,93185.0,22.36,Approved,0.34
+TXN-10278,Cafe Colombia Corp,Colombia,SaaS / Software,COP,94140.0,22.59,Approved,0.34
+TXN-10279,Cafe Colombia Corp,Colombia,Marketing,COP,344860.0,82.77,Approved,1.24
+TXN-10280,Logistica Mexico SA,Colombia,Marketing,COP,17335.0,4.16,Approved,0.06
+TXN-10281,E-commerce LatAm,Brazil,Office Supplies,BRL,1175.98,211.68,Approved,3.18
+TXN-10282,TechInnovate BR,Mexico,Office Supplies,MXN,2898.48,150.72,Approved,2.26
+TXN-10283,Fintech Valley,Colombia,Travel & Hotels,COP,280510.0,67.32,Approved,1.01
+TXN-10284,TechInnovate BR,Brazil,Marketing,BRL,459.74,82.75,Approved,1.24
+TXN-10285,E-commerce LatAm,Colombia,Office Supplies,COP,562105.0,134.91,Approved,2.02
+TXN-10286,Fintech Valley,Mexico,Travel & Hotels,MXN,337.47,17.55,Declined,0.26
+TXN-10287,E-commerce LatAm,Brazil,Travel & Hotels,BRL,51.13,9.2,Approved,0.14
+TXN-10288,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,440.7,22.92,Approved,0.34
+TXN-10289,Fintech Valley,Mexico,Office Supplies,MXN,2404.05,125.01,Approved,1.88
+TXN-10290,Cafe Colombia Corp,Brazil,Marketing,BRL,27.64,4.98,Approved,0.07
+TXN-10291,TechInnovate BR,Brazil,SaaS / Software,BRL,447.1,80.48,Approved,1.21
+TXN-10292,TechInnovate BR,Brazil,Travel & Hotels,BRL,2704.94,486.89,Approved,7.3
+TXN-10293,Fintech Valley,Brazil,Office Supplies,BRL,977.92,176.03,Approved,2.64
+TXN-10294,Fintech Valley,Brazil,Office Supplies,BRL,378.49,68.13,Approved,1.02
+TXN-10295,E-commerce LatAm,Brazil,SaaS / Software,BRL,42.88,7.72,Approved,0.12
+TXN-10296,E-commerce LatAm,Brazil,SaaS / Software,BRL,900.03,162.01,Approved,2.43
+TXN-10297,Cafe Colombia Corp,Colombia,Office Supplies,COP,233435.0,56.02,Approved,0.84
+TXN-10298,Fintech Valley,Mexico,Marketing,MXN,213.15,11.08,Approved,0.17
+TXN-10299,TechInnovate BR,Brazil,SaaS / Software,BRL,59.28,10.67,Approved,0.16
+TXN-10300,E-commerce LatAm,Colombia,Office Supplies,COP,605950.0,145.43,Approved,2.18
+TXN-10301,E-commerce LatAm,Colombia,SaaS / Software,COP,281560.0,67.57,Approved,1.01
+TXN-10302,TechInnovate BR,Colombia,Marketing,COP,446945.0,107.27,Approved,1.61
+TXN-10303,E-commerce LatAm,Mexico,Travel & Hotels,MXN,3197.7,166.28,Approved,2.49
+TXN-10304,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,434.05,78.13,Approved,1.17
+TXN-10305,Fintech Valley,Colombia,Marketing,COP,187165.0,44.92,Approved,0.67
+TXN-10306,TechInnovate BR,Mexico,Office Supplies,MXN,874.29,45.46,Approved,0.68
+TXN-10307,Fintech Valley,Mexico,SaaS / Software,MXN,601.77,31.29,Approved,0.47
+TXN-10308,E-commerce LatAm,Mexico,SaaS / Software,MXN,885.33,46.04,Approved,0.69
+TXN-10309,E-commerce LatAm,Colombia,Office Supplies,COP,376670.0,90.4,Approved,1.36
+TXN-10310,TechInnovate BR,Brazil,Travel & Hotels,BRL,470.56,84.7,Approved,1.27
+TXN-10311,Cafe Colombia Corp,Colombia,Office Supplies,COP,562620.0,135.03,Approved,2.03
+TXN-10312,Logistica Mexico SA,Colombia,SaaS / Software,COP,151470.0,36.35,Approved,0.55
+TXN-10313,TechInnovate BR,Brazil,Office Supplies,BRL,477.09,85.88,Approved,1.29
+TXN-10314,Logistica Mexico SA,Brazil,Marketing,BRL,508.9,91.6,Approved,1.37
+TXN-10315,Logistica Mexico SA,Brazil,Office Supplies,BRL,457.87,82.42,Approved,1.24
+TXN-10316,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,1849.2,96.16,Approved,1.44
+TXN-10317,Logistica Mexico SA,Brazil,Office Supplies,BRL,145.53,26.2,Approved,0.39
+TXN-10318,Logistica Mexico SA,Colombia,Travel & Hotels,COP,184545.0,44.29,Approved,0.66
+TXN-10319,Cafe Colombia Corp,Brazil,Office Supplies,BRL,65.03,11.71,Approved,0.18
+TXN-10320,Logistica Mexico SA,Colombia,Travel & Hotels,COP,126335.0,30.32,Approved,0.45
+TXN-10321,Logistica Mexico SA,Mexico,Marketing,MXN,1033.17,53.72,Approved,0.81
+TXN-10322,Logistica Mexico SA,Colombia,Travel & Hotels,COP,269050.0,64.57,Approved,0.97
+TXN-10323,TechInnovate BR,Colombia,Office Supplies,COP,756605.0,181.59,Approved,2.72
+TXN-10324,TechInnovate BR,Brazil,SaaS / Software,BRL,468.96,84.41,Approved,1.27
+TXN-10325,TechInnovate BR,Brazil,Travel & Hotels,BRL,690.5,124.29,Approved,1.86
+TXN-10326,Cafe Colombia Corp,Colombia,Marketing,COP,181440.0,43.55,Approved,0.65
+TXN-10327,E-commerce LatAm,Brazil,Travel & Hotels,BRL,512.7,92.29,Approved,1.38
+TXN-10328,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,140.37,7.3,Approved,0.11
+TXN-10329,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,470.34,24.46,Approved,0.37
+TXN-10330,Cafe Colombia Corp,Brazil,Marketing,BRL,234.59,42.23,Approved,0.63
+TXN-10331,Logistica Mexico SA,Mexico,Office Supplies,MXN,989.4,51.45,Approved,0.77
+TXN-10332,TechInnovate BR,Brazil,Travel & Hotels,BRL,33.36,6.0,Approved,0.09
+TXN-10333,E-commerce LatAm,Colombia,Travel & Hotels,COP,42715.0,10.25,Approved,0.15
+TXN-10334,Fintech Valley,Colombia,SaaS / Software,COP,86020.0,20.64,Approved,0.31
+TXN-10335,Logistica Mexico SA,Mexico,Marketing,MXN,5368.5,279.16,Approved,4.19
+TXN-10336,TechInnovate BR,Brazil,Travel & Hotels,BRL,211.25,38.02,Approved,0.57
+TXN-10337,Fintech Valley,Brazil,Marketing,BRL,338.93,61.01,Approved,0.92
+TXN-10338,E-commerce LatAm,Mexico,Travel & Hotels,MXN,357.42,18.59,Approved,0.28
+TXN-10339,Fintech Valley,Colombia,Office Supplies,COP,240905.0,57.82,Approved,0.87
+TXN-10340,TechInnovate BR,Mexico,Office Supplies,MXN,524.19,27.26,Approved,0.41
+TXN-10341,Fintech Valley,Colombia,Travel & Hotels,COP,62980.0,15.12,Approved,0.23
+TXN-10342,Cafe Colombia Corp,Brazil,Office Supplies,BRL,373.43,67.22,Approved,1.01
+TXN-10343,Fintech Valley,Colombia,Travel & Hotels,COP,6380.0,1.53,Declined,0.02
+TXN-10344,Logistica Mexico SA,Mexico,Office Supplies,MXN,41.55,2.16,Approved,0.03
+TXN-10345,Logistica Mexico SA,Brazil,SaaS / Software,BRL,133.63,24.05,Approved,0.36
+TXN-10346,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,86.13,4.48,Approved,0.07
+TXN-10347,TechInnovate BR,Mexico,SaaS / Software,MXN,201.48,10.48,Approved,0.16
+TXN-10348,Logistica Mexico SA,Colombia,Marketing,COP,108450.0,26.03,Approved,0.39
+TXN-10349,E-commerce LatAm,Mexico,Marketing,MXN,2463.69,128.11,Approved,1.92
+TXN-10350,Logistica Mexico SA,Colombia,SaaS / Software,COP,217185.0,52.12,Refunded,0.78
+TXN-10351,Logistica Mexico SA,Brazil,Marketing,BRL,369.4,66.49,Approved,1.0
+TXN-10352,TechInnovate BR,Colombia,Office Supplies,COP,91855.0,22.05,Approved,0.33
+TXN-10353,Fintech Valley,Brazil,Travel & Hotels,BRL,1352.32,243.42,Approved,3.65
+TXN-10354,Logistica Mexico SA,Colombia,Travel & Hotels,COP,131465.0,31.55,Approved,0.47
+TXN-10355,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,166.68,8.67,Approved,0.13
+TXN-10356,Fintech Valley,Colombia,SaaS / Software,COP,244975.0,58.79,Approved,0.88
+TXN-10357,E-commerce LatAm,Colombia,Marketing,COP,35215.0,8.45,Approved,0.13
+TXN-10358,TechInnovate BR,Brazil,Office Supplies,BRL,221.73,39.91,Approved,0.6
+TXN-10359,E-commerce LatAm,Mexico,Office Supplies,MXN,1092.12,56.79,Approved,0.85
+TXN-10360,Fintech Valley,Colombia,SaaS / Software,COP,523310.0,125.59,Approved,1.88
+TXN-10361,Fintech Valley,Mexico,Office Supplies,MXN,1050.48,54.62,Approved,0.82
+TXN-10362,Fintech Valley,Colombia,Office Supplies,COP,307885.0,73.89,Approved,1.11
+TXN-10363,E-commerce LatAm,Colombia,Office Supplies,COP,1239005.0,297.36,Approved,4.46
+TXN-10364,Fintech Valley,Mexico,Office Supplies,MXN,241.47,12.56,Approved,0.19
+TXN-10365,E-commerce LatAm,Colombia,Marketing,COP,85305.0,20.47,Approved,0.31
+TXN-10366,Fintech Valley,Mexico,Office Supplies,MXN,782.73,40.7,Approved,0.61
+TXN-10367,Cafe Colombia Corp,Colombia,Travel & Hotels,COP,141970.0,34.07,Approved,0.51
+TXN-10368,Fintech Valley,Brazil,SaaS / Software,BRL,274.68,49.44,Approved,0.74
+TXN-10369,E-commerce LatAm,Mexico,Marketing,MXN,3602.61,187.34,Approved,2.81
+TXN-10370,Logistica Mexico SA,Colombia,Office Supplies,COP,317970.0,76.31,Approved,1.14
+TXN-10371,Fintech Valley,Colombia,Marketing,COP,239065.0,57.38,Approved,0.86
+TXN-10372,Logistica Mexico SA,Brazil,Office Supplies,BRL,195.08,35.11,Approved,0.53
+TXN-10373,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,2634.12,136.97,Approved,2.05
+TXN-10374,TechInnovate BR,Colombia,SaaS / Software,COP,780610.0,187.35,Approved,2.81
+TXN-10375,Cafe Colombia Corp,Brazil,Office Supplies,BRL,870.74,156.73,Approved,2.35
+TXN-10376,Fintech Valley,Colombia,Office Supplies,COP,5390.0,1.29,Approved,0.02
+TXN-10377,Logistica Mexico SA,Mexico,Office Supplies,MXN,1547.55,80.47,Approved,1.21
+TXN-10378,Logistica Mexico SA,Colombia,Office Supplies,COP,18120.0,4.35,Approved,0.07
+TXN-10379,E-commerce LatAm,Colombia,SaaS / Software,COP,79470.0,19.07,Approved,0.29
+TXN-10380,Logistica Mexico SA,Colombia,SaaS / Software,COP,20340.0,4.88,Approved,0.07
+TXN-10381,E-commerce LatAm,Colombia,Travel & Hotels,COP,236455.0,56.75,Approved,0.85
+TXN-10382,TechInnovate BR,Brazil,SaaS / Software,BRL,590.12,106.22,Approved,1.59
+TXN-10383,Fintech Valley,Brazil,Office Supplies,BRL,70.79,12.74,Approved,0.19
+TXN-10384,E-commerce LatAm,Mexico,Travel & Hotels,MXN,756.36,39.33,Approved,0.59
+TXN-10385,TechInnovate BR,Brazil,Travel & Hotels,BRL,314.62,56.63,Approved,0.85
+TXN-10386,Logistica Mexico SA,Brazil,Travel & Hotels,BRL,240.27,43.25,Approved,0.65
+TXN-10387,Logistica Mexico SA,Mexico,Office Supplies,MXN,223.5,11.62,Approved,0.17
+TXN-10388,TechInnovate BR,Brazil,Marketing,BRL,281.46,50.66,Approved,0.76
+TXN-10389,Logistica Mexico SA,Brazil,Office Supplies,BRL,705.51,126.99,Approved,1.9
+TXN-10390,TechInnovate BR,Mexico,SaaS / Software,MXN,140.49,7.31,Approved,0.11
+TXN-10391,E-commerce LatAm,Mexico,SaaS / Software,MXN,155.37,8.08,Approved,0.12
+TXN-10392,E-commerce LatAm,Mexico,Office Supplies,MXN,687.24,35.74,Approved,0.54
+TXN-10393,TechInnovate BR,Colombia,Office Supplies,COP,715650.0,171.76,Approved,2.58
+TXN-10394,E-commerce LatAm,Colombia,Travel & Hotels,COP,281085.0,67.46,Approved,1.01
+TXN-10395,E-commerce LatAm,Mexico,Office Supplies,MXN,1732.92,90.11,Approved,1.35
+TXN-10396,E-commerce LatAm,Mexico,Travel & Hotels,MXN,703.95,36.61,Approved,0.55
+TXN-10397,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,1380.84,71.8,Approved,1.08
+TXN-10398,Fintech Valley,Colombia,Travel & Hotels,COP,7545.0,1.81,Approved,0.03
+TXN-10399,Logistica Mexico SA,Colombia,Office Supplies,COP,257715.0,61.85,Approved,0.93
+TXN-10400,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,1232.58,221.86,Approved,3.33
+TXN-10401,E-commerce LatAm,Brazil,Marketing,BRL,484.11,87.14,Approved,1.31
+TXN-10402,TechInnovate BR,Mexico,Travel & Hotels,MXN,3133.62,162.95,Approved,2.44
+TXN-10403,E-commerce LatAm,Colombia,SaaS / Software,COP,326815.0,78.44,Approved,1.18
+TXN-10404,Fintech Valley,Colombia,Travel & Hotels,COP,37115.0,8.91,Approved,0.13
+TXN-10405,E-commerce LatAm,Colombia,SaaS / Software,COP,586855.0,140.85,Approved,2.11
+TXN-10406,TechInnovate BR,Mexico,SaaS / Software,MXN,133.14,6.92,Approved,0.1
+TXN-10407,Fintech Valley,Brazil,Travel & Hotels,BRL,391.75,70.52,Approved,1.06
+TXN-10408,E-commerce LatAm,Mexico,Marketing,MXN,259.98,13.52,Approved,0.2
+TXN-10409,Fintech Valley,Brazil,SaaS / Software,BRL,15.89,2.86,Approved,0.04
+TXN-10410,Logistica Mexico SA,Brazil,SaaS / Software,BRL,284.12,51.14,Approved,0.77
+TXN-10411,Logistica Mexico SA,Mexico,SaaS / Software,MXN,554.43,28.83,Approved,0.43
+TXN-10412,E-commerce LatAm,Brazil,Marketing,BRL,342.77,61.7,Approved,0.93
+TXN-10413,Fintech Valley,Brazil,Marketing,BRL,440.43,79.28,Declined,1.19
+TXN-10414,TechInnovate BR,Colombia,Office Supplies,COP,16180.0,3.88,Approved,0.06
+TXN-10415,E-commerce LatAm,Brazil,Travel & Hotels,BRL,75.63,13.61,Approved,0.2
+TXN-10416,Logistica Mexico SA,Mexico,Marketing,MXN,1256.85,65.36,Approved,0.98
+TXN-10417,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,660.48,34.34,Approved,0.52
+TXN-10418,E-commerce LatAm,Brazil,Office Supplies,BRL,663.14,119.37,Approved,1.79
+TXN-10419,Fintech Valley,Colombia,Travel & Hotels,COP,269100.0,64.58,Approved,0.97
+TXN-10420,Logistica Mexico SA,Colombia,Marketing,COP,472060.0,113.29,Approved,1.7
+TXN-10421,Fintech Valley,Brazil,Travel & Hotels,BRL,599.63,107.93,Approved,1.62
+TXN-10422,Logistica Mexico SA,Brazil,Marketing,BRL,291.0,52.38,Approved,0.79
+TXN-10423,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,1706.55,88.74,Approved,1.33
+TXN-10424,Cafe Colombia Corp,Brazil,Marketing,BRL,171.05,30.79,Approved,0.46
+TXN-10425,Logistica Mexico SA,Colombia,Marketing,COP,96435.0,23.14,Approved,0.35
+TXN-10426,TechInnovate BR,Brazil,Travel & Hotels,BRL,787.91,141.82,Approved,2.13
+TXN-10427,E-commerce LatAm,Mexico,Office Supplies,MXN,917.01,47.68,Approved,0.72
+TXN-10428,E-commerce LatAm,Mexico,SaaS / Software,MXN,2432.07,126.47,Approved,1.9
+TXN-10429,Fintech Valley,Mexico,Office Supplies,MXN,2622.51,136.37,Approved,2.05
+TXN-10430,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,2953.29,153.57,Approved,2.3
+TXN-10431,TechInnovate BR,Mexico,Office Supplies,MXN,3756.78,195.35,Approved,2.93
+TXN-10432,Fintech Valley,Brazil,Marketing,BRL,291.92,52.55,Approved,0.79
+TXN-10433,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,202.0,36.36,Approved,0.55
+TXN-10434,Fintech Valley,Brazil,Travel & Hotels,BRL,446.37,80.35,Approved,1.21
+TXN-10435,Fintech Valley,Brazil,Travel & Hotels,BRL,241.95,43.55,Approved,0.65
+TXN-10436,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,1408.47,73.24,Approved,1.1
+TXN-10437,Cafe Colombia Corp,Colombia,SaaS / Software,COP,310690.0,74.57,Approved,1.12
+TXN-10438,Fintech Valley,Brazil,Marketing,BRL,593.03,106.75,Approved,1.6
+TXN-10439,TechInnovate BR,Colombia,Travel & Hotels,COP,122320.0,29.36,Approved,0.44
+TXN-10440,TechInnovate BR,Brazil,Office Supplies,BRL,101.28,18.23,Approved,0.27
+TXN-10441,E-commerce LatAm,Brazil,Travel & Hotels,BRL,291.52,52.47,Approved,0.79
+TXN-10442,Cafe Colombia Corp,Colombia,Travel & Hotels,COP,43460.0,10.43,Approved,0.16
+TXN-10443,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,3342.24,173.8,Approved,2.61
+TXN-10444,E-commerce LatAm,Brazil,Travel & Hotels,BRL,222.23,40.0,Refunded,0.6
+TXN-10445,Fintech Valley,Brazil,Marketing,BRL,93.89,16.9,Approved,0.25
+TXN-10446,Cafe Colombia Corp,Brazil,Office Supplies,BRL,22.89,4.12,Approved,0.06
+TXN-10447,TechInnovate BR,Colombia,Marketing,COP,264490.0,63.48,Approved,0.95
+TXN-10448,TechInnovate BR,Mexico,Office Supplies,MXN,1549.62,80.58,Approved,1.21
+TXN-10449,Logistica Mexico SA,Colombia,Travel & Hotels,COP,109110.0,26.19,Approved,0.39
+TXN-10450,Cafe Colombia Corp,Colombia,SaaS / Software,COP,23605.0,5.67,Approved,0.09
+TXN-10451,Fintech Valley,Mexico,Marketing,MXN,820.5,42.67,Refunded,0.64
+TXN-10452,E-commerce LatAm,Colombia,SaaS / Software,COP,98205.0,23.57,Approved,0.35
+TXN-10453,E-commerce LatAm,Mexico,Marketing,MXN,1725.72,89.74,Approved,1.35
+TXN-10454,Fintech Valley,Brazil,Travel & Hotels,BRL,475.42,85.58,Approved,1.28
+TXN-10455,Logistica Mexico SA,Mexico,Marketing,MXN,710.25,36.93,Approved,0.55
+TXN-10456,E-commerce LatAm,Brazil,Travel & Hotels,BRL,132.88,23.92,Refunded,0.36
+TXN-10457,Cafe Colombia Corp,Colombia,Marketing,COP,1111465.0,266.75,Approved,4.0
+TXN-10458,Logistica Mexico SA,Colombia,Travel & Hotels,COP,156285.0,37.51,Approved,0.56
+TXN-10459,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,592.82,106.71,Approved,1.6
+TXN-10460,TechInnovate BR,Colombia,Office Supplies,COP,42865.0,10.29,Approved,0.15
+TXN-10461,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,1027.11,53.41,Approved,0.8
+TXN-10462,E-commerce LatAm,Brazil,Office Supplies,BRL,23.96,4.31,Approved,0.06
+TXN-10463,Logistica Mexico SA,Colombia,Travel & Hotels,COP,181030.0,43.45,Approved,0.65
+TXN-10464,Logistica Mexico SA,Brazil,SaaS / Software,BRL,1672.36,301.02,Approved,4.52
+TXN-10465,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,757.26,39.38,Approved,0.59
+TXN-10466,Logistica Mexico SA,Mexico,SaaS / Software,MXN,89.67,4.66,Approved,0.07
+TXN-10467,Cafe Colombia Corp,Colombia,SaaS / Software,COP,12860.0,3.09,Approved,0.05
+TXN-10468,TechInnovate BR,Mexico,Travel & Hotels,MXN,766.5,39.86,Approved,0.6
+TXN-10469,Fintech Valley,Brazil,SaaS / Software,BRL,97.19,17.49,Approved,0.26
+TXN-10470,Logistica Mexico SA,Mexico,Office Supplies,MXN,65.43,3.4,Approved,0.05
+TXN-10471,E-commerce LatAm,Brazil,Marketing,BRL,715.73,128.83,Approved,1.93
+TXN-10472,Logistica Mexico SA,Brazil,SaaS / Software,BRL,316.73,30289.13,Approved,454.34
+TXN-10473,E-commerce LatAm,Mexico,SaaS / Software,MXN,542.13,28.19,Approved,0.42
+TXN-10474,Cafe Colombia Corp,Colombia,Travel & Hotels,COP,580855.0,139.41,Approved,2.09
+TXN-10475,E-commerce LatAm,Mexico,Office Supplies,MXN,215.19,11.19,Approved,0.17
+TXN-10476,Fintech Valley,Brazil,Travel & Hotels,BRL,1570.86,282.75,Approved,4.24
+TXN-10477,TechInnovate BR,Brazil,Travel & Hotels,BRL,198.41,35.71,Approved,0.54
+TXN-10478,E-commerce LatAm,Mexico,SaaS / Software,MXN,3319.29,172.6,Approved,2.59
+TXN-10479,E-commerce LatAm,Colombia,Office Supplies,COP,235920.0,56.62,Approved,0.85
+TXN-10480,TechInnovate BR,Colombia,Marketing,COP,443195.0,106.37,Refunded,1.6
+TXN-10481,Fintech Valley,Brazil,Marketing,BRL,2077.99,374.04,Approved,5.61
+TXN-10482,Logistica Mexico SA,Brazil,SaaS / Software,BRL,180.12,32.42,Approved,0.49
+TXN-10483,E-commerce LatAm,Colombia,Travel & Hotels,COP,816920.0,196.06,Approved,2.94
+TXN-10484,TechInnovate BR,Mexico,SaaS / Software,MXN,770.16,40.05,Approved,0.6
+TXN-10485,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,253.48,45.63,Approved,0.68
+TXN-10486,TechInnovate BR,Brazil,SaaS / Software,BRL,218.05,39.25,Approved,0.59
+TXN-10487,Cafe Colombia Corp,Colombia,Travel & Hotels,COP,199900.0,47.98,Declined,0.72
+TXN-10488,Fintech Valley,Mexico,Office Supplies,MXN,281.1,14.62,Declined,0.22
+TXN-10489,Logistica Mexico SA,Colombia,SaaS / Software,COP,206695.0,49.61,Approved,0.74
+TXN-10490,TechInnovate BR,Mexico,Travel & Hotels,MXN,1200.36,62.42,Approved,0.94
+TXN-10491,E-commerce LatAm,Mexico,Office Supplies,MXN,2182.62,113.5,Approved,1.7
+TXN-10492,Fintech Valley,Mexico,SaaS / Software,MXN,2720.49,141.47,Refunded,2.12
+TXN-10493,TechInnovate BR,Brazil,Marketing,BRL,300.3,54.05,Refunded,0.81
+TXN-10494,E-commerce LatAm,Colombia,Office Supplies,COP,95005.0,22.8,Approved,0.34
+TXN-10495,TechInnovate BR,Colombia,SaaS / Software,COP,80050.0,19.21,Approved,0.29
+TXN-10496,Cafe Colombia Corp,Mexico,Office Supplies,MXN,354.66,18.44,Approved,0.28
+TXN-10497,TechInnovate BR,Brazil,Office Supplies,BRL,39.69,7.14,Approved,0.11
+TXN-10498,TechInnovate BR,Brazil,Office Supplies,BRL,219.62,39.53,Approved,0.59
+TXN-10499,TechInnovate BR,Colombia,Office Supplies,COP,83765.0,20.1,Approved,0.3
+TXN-10500,Fintech Valley,Brazil,Office Supplies,BRL,1706.87,307.24,Approved,4.61
+TXN-10501,TechInnovate BR,Brazil,Office Supplies,BRL,417.89,75.22,Approved,1.13
+TXN-10502,E-commerce LatAm,Mexico,SaaS / Software,MXN,669.9,34.83,Approved,0.52
+TXN-10503,Cafe Colombia Corp,Brazil,Marketing,BRL,444.31,79.98,Declined,1.2
+TXN-10504,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,254.82,13.25,Approved,0.2
+TXN-10505,TechInnovate BR,Colombia,Office Supplies,COP,151765.0,36.42,Approved,0.55
+TXN-10506,Fintech Valley,Brazil,Travel & Hotels,BRL,502.06,90.37,Approved,1.36
+TXN-10507,Fintech Valley,Colombia,SaaS / Software,COP,172795.0,41.47,Approved,0.62
+TXN-10508,E-commerce LatAm,Colombia,Office Supplies,COP,133450.0,32.03,Approved,0.48
+TXN-10509,TechInnovate BR,Brazil,Marketing,BRL,2555.52,459.99,Approved,6.9
+TXN-10510,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,1071.45,192.86,Approved,2.89
+TXN-10511,Fintech Valley,Colombia,Office Supplies,COP,249145.0,59.79,Approved,0.9
+TXN-10512,TechInnovate BR,Brazil,SaaS / Software,BRL,431.26,77.63,Approved,1.16
+TXN-10513,Fintech Valley,Mexico,Marketing,MXN,1483.98,77.17,Approved,1.16
+TXN-10514,Fintech Valley,Mexico,Travel & Hotels,MXN,367.17,19.09,Approved,0.29
+TXN-10515,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,261.38,47.05,Approved,0.71
+TXN-10516,Logistica Mexico SA,Colombia,Office Supplies,COP,15065.0,3.62,Approved,0.05
+TXN-10517,E-commerce LatAm,Brazil,Marketing,BRL,332.7,59.89,Approved,0.9
+TXN-10518,E-commerce LatAm,Brazil,Marketing,BRL,401.56,72.28,Approved,1.08
+TXN-10519,Cafe Colombia Corp,Colombia,Marketing,COP,69610.0,16.71,Approved,0.25
+TXN-10520,Fintech Valley,Colombia,Marketing,COP,836260.0,200.7,Approved,3.01
+TXN-10521,TechInnovate BR,Mexico,SaaS / Software,MXN,3632.85,188.91,Approved,2.83
+TXN-10522,Fintech Valley,Colombia,Marketing,COP,325160.0,78.04,Approved,1.17
+TXN-10523,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,1173.39,61.02,Approved,0.92
+TXN-10524,E-commerce LatAm,Colombia,Travel & Hotels,COP,514995.0,123.6,Approved,1.85
+TXN-10525,Fintech Valley,Brazil,SaaS / Software,BRL,80.01,14.4,Declined,0.22
+TXN-10526,E-commerce LatAm,Mexico,Travel & Hotels,MXN,2374.62,123.48,Approved,1.85
+TXN-10527,TechInnovate BR,Mexico,Travel & Hotels,MXN,229.98,11.96,Approved,0.18
+TXN-10528,E-commerce LatAm,Mexico,Marketing,MXN,2401.35,124.87,Approved,1.87
+TXN-10529,E-commerce LatAm,Brazil,Travel & Hotels,BRL,171.32,30.84,Approved,0.46
+TXN-10530,Logistica Mexico SA,Brazil,SaaS / Software,BRL,1058.15,190.47,Approved,2.86
+TXN-10531,Logistica Mexico SA,Brazil,Marketing,BRL,1451.58,261.28,Approved,3.92
+TXN-10532,Logistica Mexico SA,Brazil,Office Supplies,BRL,90.55,16.3,Declined,0.24
+TXN-10533,E-commerce LatAm,Brazil,Marketing,BRL,320.58,57.7,Approved,0.87
+TXN-10534,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,5973.99,310.65,Approved,4.66
+TXN-10535,E-commerce LatAm,Brazil,Marketing,BRL,340.25,61.24,Approved,0.92
+TXN-10536,Cafe Colombia Corp,Mexico,Marketing,MXN,3017.67,156.92,Approved,2.35
+TXN-10537,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,454.25,81.76,Approved,1.23
+TXN-10538,Logistica Mexico SA,Colombia,Marketing,COP,122635.0,29.43,Approved,0.44
+TXN-10539,Fintech Valley,Mexico,SaaS / Software,MXN,534.84,27.81,Approved,0.42
+TXN-10540,TechInnovate BR,Colombia,SaaS / Software,COP,61795.0,14.83,Approved,0.22
+TXN-10541,Logistica Mexico SA,Mexico,Office Supplies,MXN,2181.96,113.46,Approved,1.7
+TXN-10542,Logistica Mexico SA,Colombia,Travel & Hotels,COP,127160.0,30.52,Approved,0.46
+TXN-10543,Fintech Valley,Brazil,Travel & Hotels,BRL,367.98,66.24,Approved,0.99
+TXN-10544,TechInnovate BR,Brazil,Marketing,BRL,348.96,62.81,Approved,0.94
+TXN-10545,E-commerce LatAm,Brazil,Marketing,BRL,440.52,79.29,Approved,1.19
+TXN-10546,E-commerce LatAm,Mexico,Office Supplies,MXN,3040.14,158.09,Approved,2.37
+TXN-10547,Logistica Mexico SA,Colombia,Office Supplies,COP,992425.0,238.18,Approved,3.57
+TXN-10548,TechInnovate BR,Brazil,Office Supplies,BRL,271.77,48.92,Approved,0.73
+TXN-10549,Logistica Mexico SA,Colombia,SaaS / Software,COP,444365.0,106.65,Approved,1.6
+TXN-10550,Cafe Colombia Corp,Colombia,Office Supplies,COP,366540.0,87.97,Approved,1.32
+TXN-10551,Logistica Mexico SA,Brazil,Office Supplies,BRL,436.11,78.5,Refunded,1.18
+TXN-10552,Logistica Mexico SA,Brazil,Marketing,BRL,1572.32,283.02,Approved,4.25
+TXN-10553,E-commerce LatAm,Colombia,Office Supplies,COP,60935.0,14.62,Approved,0.22
+TXN-10554,E-commerce LatAm,Brazil,SaaS / Software,BRL,67.85,12.21,Approved,0.18
+TXN-10555,E-commerce LatAm,Brazil,SaaS / Software,BRL,971.94,174.95,Declined,2.62
+TXN-10556,Cafe Colombia Corp,Brazil,Marketing,BRL,299.15,53.85,Approved,0.81
+TXN-10557,E-commerce LatAm,Mexico,Office Supplies,MXN,2845.68,147.98,Approved,2.22
+TXN-10558,TechInnovate BR,Colombia,Office Supplies,COP,563940.0,135.35,Approved,2.03
+TXN-10559,Fintech Valley,Colombia,SaaS / Software,COP,21125.0,5.07,Approved,0.08
+TXN-10560,TechInnovate BR,Mexico,Office Supplies,MXN,3254.34,169.23,Approved,2.54
+TXN-10561,TechInnovate BR,Colombia,Office Supplies,COP,153695.0,36.89,Declined,0.55
+TXN-10562,E-commerce LatAm,Brazil,Office Supplies,BRL,367.12,66.08,Approved,0.99
+TXN-10563,Fintech Valley,Colombia,Travel & Hotels,COP,251270.0,60.3,Approved,0.9
+TXN-10564,Fintech Valley,Brazil,Marketing,BRL,1314.44,236.6,Declined,3.55
+TXN-10565,Fintech Valley,Mexico,Travel & Hotels,MXN,58.95,3.07,Approved,0.05
+TXN-10566,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,333.94,82568.33,Approved,1238.52
+TXN-10567,E-commerce LatAm,Colombia,SaaS / Software,COP,295965.0,71.03,Approved,1.07
+TXN-10568,Fintech Valley,Colombia,Office Supplies,COP,325670.0,78.16,Approved,1.17
+TXN-10569,Cafe Colombia Corp,Colombia,Marketing,COP,299845.0,71.96,Approved,1.08
+TXN-10570,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,246.57,12.82,Approved,0.19
+TXN-10571,Logistica Mexico SA,Mexico,Office Supplies,MXN,563.73,29.31,Approved,0.44
+TXN-10572,Cafe Colombia Corp,Colombia,SaaS / Software,COP,116070.0,27.86,Approved,0.42
+TXN-10573,Cafe Colombia Corp,Brazil,Marketing,BRL,825.94,148.67,Approved,2.23
+TXN-10574,E-commerce LatAm,Mexico,Marketing,MXN,520.17,27.05,Approved,0.41
+TXN-10575,E-commerce LatAm,Colombia,Marketing,COP,64155.0,15.4,Declined,0.23
+TXN-10576,Logistica Mexico SA,Colombia,Office Supplies,COP,794255.0,190.62,Approved,2.86
+TXN-10577,Fintech Valley,Mexico,Travel & Hotels,MXN,43.35,2.25,Declined,0.03
+TXN-10578,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,9223.23,479.61,Approved,7.19
+TXN-10579,Fintech Valley,Mexico,Marketing,MXN,1724.31,89.66,Approved,1.34
+TXN-10580,Fintech Valley,Brazil,SaaS / Software,BRL,891.5,160.47,Approved,2.41
+TXN-10581,E-commerce LatAm,Brazil,SaaS / Software,BRL,184.51,33.21,Approved,0.5
+TXN-10582,TechInnovate BR,Colombia,Travel & Hotels,COP,8605.0,2.07,Approved,0.03
+TXN-10583,TechInnovate BR,Mexico,SaaS / Software,MXN,2038.38,106.0,Approved,1.59
+TXN-10584,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,908.32,163.5,Approved,2.45
+TXN-10585,E-commerce LatAm,Mexico,Marketing,MXN,2053.35,106.77,Approved,1.6
+TXN-10586,Fintech Valley,Colombia,Travel & Hotels,COP,43535.0,10.45,Approved,0.16
+TXN-10587,TechInnovate BR,Brazil,Travel & Hotels,BRL,710.05,127.81,Approved,1.92
+TXN-10588,Fintech Valley,Brazil,Marketing,BRL,742.5,133.65,Approved,2.0
+TXN-10589,TechInnovate BR,Brazil,SaaS / Software,BRL,547.26,98.51,Approved,1.48
+TXN-10590,TechInnovate BR,Colombia,Travel & Hotels,COP,368230.0,88.38,Approved,1.33
+TXN-10591,TechInnovate BR,Mexico,Travel & Hotels,MXN,2835.45,147.44,Approved,2.21
+TXN-10592,E-commerce LatAm,Brazil,Marketing,BRL,485.45,87.38,Approved,1.31
+TXN-10593,Logistica Mexico SA,Colombia,SaaS / Software,COP,28195.0,6.77,Approved,0.1
+TXN-10594,Fintech Valley,Mexico,Travel & Hotels,MXN,1033.05,53.72,Approved,0.81
+TXN-10595,E-commerce LatAm,Colombia,Marketing,COP,25205.0,6.05,Approved,0.09
+TXN-10596,E-commerce LatAm,Mexico,Travel & Hotels,MXN,815.22,42.39,Approved,0.64
+TXN-10597,E-commerce LatAm,Colombia,Office Supplies,COP,135685.0,32.56,Approved,0.49
+TXN-10598,E-commerce LatAm,Mexico,Marketing,MXN,132.42,6.89,Approved,0.1
+TXN-10599,E-commerce LatAm,Brazil,SaaS / Software,BRL,224.48,40.41,Approved,0.61
+TXN-10600,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,206.49,10.74,Approved,0.16
+TXN-10601,Fintech Valley,Colombia,SaaS / Software,COP,417870.0,100.29,Approved,1.5
+TXN-10602,E-commerce LatAm,Colombia,SaaS / Software,COP,742630.0,178.23,Approved,2.67
+TXN-10603,Fintech Valley,Mexico,Travel & Hotels,MXN,142.59,7.41,Approved,0.11
+TXN-10604,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,1561.83,281.13,Approved,4.22
+TXN-10605,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,379.68,68.34,Approved,1.03
+TXN-10606,Fintech Valley,Mexico,SaaS / Software,MXN,564.09,29.33,Approved,0.44
+TXN-10607,TechInnovate BR,Mexico,SaaS / Software,MXN,149.97,7.8,Approved,0.12
+TXN-10608,Logistica Mexico SA,Colombia,Travel & Hotels,COP,178600.0,42.86,Approved,0.64
+TXN-10609,TechInnovate BR,Brazil,SaaS / Software,BRL,801.19,144.21,Approved,2.16
+TXN-10610,TechInnovate BR,Mexico,SaaS / Software,MXN,1871.82,97.33,Approved,1.46
+TXN-10611,TechInnovate BR,Brazil,Office Supplies,BRL,35.77,6.44,Approved,0.1
+TXN-10612,E-commerce LatAm,Mexico,Office Supplies,MXN,143.55,7.46,Approved,0.11
+TXN-10613,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,803.43,41.78,Approved,0.63
+TXN-10614,TechInnovate BR,Brazil,Marketing,BRL,184.98,33.3,Approved,0.5
+TXN-10615,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,426.69,22.19,Approved,0.33
+TXN-10616,Fintech Valley,Mexico,Office Supplies,MXN,524.85,27.29,Approved,0.41
+TXN-10617,Logistica Mexico SA,Colombia,Marketing,COP,411750.0,98.82,Approved,1.48
+TXN-10618,Fintech Valley,Mexico,Marketing,MXN,4002.45,208.13,Approved,3.12
+TXN-10619,Fintech Valley,Mexico,SaaS / Software,MXN,809.04,42.07,Approved,0.63
+TXN-10620,E-commerce LatAm,Mexico,Office Supplies,MXN,3578.46,186.08,Approved,2.79
+TXN-10621,Logistica Mexico SA,Colombia,Office Supplies,COP,101965.0,24.47,Approved,0.37
+TXN-10622,Fintech Valley,Brazil,Marketing,BRL,333.55,60.04,Refunded,0.9
+TXN-10623,Fintech Valley,Colombia,SaaS / Software,COP,69055.0,16.57,Approved,0.25
+TXN-10624,Logistica Mexico SA,Colombia,Travel & Hotels,COP,260745.0,62.58,Approved,0.94
+TXN-10625,Logistica Mexico SA,Brazil,Travel & Hotels,BRL,1941.17,349.41,Approved,5.24
+TXN-10626,Fintech Valley,Colombia,Office Supplies,COP,236265.0,56.7,Approved,0.85
+TXN-10627,Logistica Mexico SA,Brazil,Travel & Hotels,BRL,231.44,41.66,Approved,0.62
+TXN-10628,Fintech Valley,Colombia,Office Supplies,COP,265900.0,63.82,Approved,0.96
+TXN-10629,Fintech Valley,Brazil,Office Supplies,BRL,75.58,13.6,Approved,0.2
+TXN-10630,E-commerce LatAm,Mexico,Office Supplies,MXN,3322.74,172.78,Approved,2.59
+TXN-10631,TechInnovate BR,Colombia,Travel & Hotels,COP,179835.0,43.16,Approved,0.65
+TXN-10632,Fintech Valley,Colombia,Office Supplies,COP,154165.0,37.0,Approved,0.55
+TXN-10633,Cafe Colombia Corp,Colombia,Marketing,COP,225390.0,54.09,Approved,0.81
+TXN-10634,TechInnovate BR,Colombia,SaaS / Software,COP,250065.0,60.02,Approved,0.9
+TXN-10635,TechInnovate BR,Mexico,SaaS / Software,MXN,141.72,7.37,Approved,0.11
+TXN-10636,TechInnovate BR,Colombia,Office Supplies,COP,291910.0,70.06,Approved,1.05
+TXN-10637,E-commerce LatAm,Mexico,SaaS / Software,MXN,445.47,23.16,Approved,0.35
+TXN-10638,Fintech Valley,Mexico,Travel & Hotels,MXN,1907.4,99.18,Approved,1.49
+TXN-10639,E-commerce LatAm,Mexico,Travel & Hotels,MXN,2623.47,136.42,Declined,2.05
+TXN-10640,Fintech Valley,Mexico,SaaS / Software,MXN,2474.13,128.65,Approved,1.93
+TXN-10641,E-commerce LatAm,Brazil,Travel & Hotels,BRL,412.04,74.17,Approved,1.11
+TXN-10642,E-commerce LatAm,Brazil,SaaS / Software,BRL,377.16,67.89,Approved,1.02
+TXN-10643,Cafe Colombia Corp,Colombia,SaaS / Software,COP,43545.0,10.45,Approved,0.16
+TXN-10644,E-commerce LatAm,Brazil,SaaS / Software,BRL,756.6,136.19,Approved,2.04
+TXN-10645,Logistica Mexico SA,Brazil,Office Supplies,BRL,168.32,30.3,Approved,0.45
+TXN-10646,Cafe Colombia Corp,Colombia,SaaS / Software,COP,176640.0,42.39,Approved,0.64
+TXN-10647,E-commerce LatAm,Colombia,Office Supplies,COP,88615.0,21.27,Approved,0.32
+TXN-10648,TechInnovate BR,Colombia,SaaS / Software,COP,40920.0,9.82,Approved,0.15
+TXN-10649,Logistica Mexico SA,Brazil,SaaS / Software,BRL,506.53,91.18,Approved,1.37
+TXN-10650,Logistica Mexico SA,Brazil,SaaS / Software,BRL,37.93,6.83,Approved,0.1
+TXN-10651,Logistica Mexico SA,Colombia,Travel & Hotels,COP,350220.0,84.05,Approved,1.26
+TXN-10652,Cafe Colombia Corp,Mexico,Office Supplies,MXN,603.18,31.37,Approved,0.47
+TXN-10653,E-commerce LatAm,Colombia,Office Supplies,COP,5035.0,1.21,Approved,0.02
+TXN-10654,E-commerce LatAm,Mexico,SaaS / Software,MXN,1103.49,57.38,Approved,0.86
+TXN-10655,TechInnovate BR,Mexico,SaaS / Software,MXN,101.97,5.3,Approved,0.08
+TXN-10656,TechInnovate BR,Colombia,Travel & Hotels,COP,85800.0,20.59,Approved,0.31
+TXN-10657,Logistica Mexico SA,Colombia,Travel & Hotels,COP,311875.0,74.85,Declined,1.12
+TXN-10658,TechInnovate BR,Colombia,Travel & Hotels,COP,21185.0,5.08,Declined,0.08
+TXN-10659,Cafe Colombia Corp,Brazil,Office Supplies,BRL,924.23,166.36,Approved,2.5
+TXN-10660,E-commerce LatAm,Mexico,Office Supplies,MXN,35.73,1.86,Approved,0.03
+TXN-10661,Logistica Mexico SA,Brazil,Office Supplies,BRL,151.73,27.31,Approved,0.41
+TXN-10662,TechInnovate BR,Brazil,SaaS / Software,BRL,685.28,123.35,Approved,1.85
+TXN-10663,Cafe Colombia Corp,Colombia,Office Supplies,COP,100050.0,24.01,Approved,0.36
+TXN-10664,Cafe Colombia Corp,Brazil,Marketing,BRL,63.73,11.47,Approved,0.17
+TXN-10665,TechInnovate BR,Colombia,Marketing,COP,116665.0,28.0,Approved,0.42
+TXN-10666,E-commerce LatAm,Mexico,Travel & Hotels,MXN,502.86,26.15,Approved,0.39
+TXN-10667,TechInnovate BR,Colombia,Office Supplies,COP,467420.0,112.18,Approved,1.68
+TXN-10668,Logistica Mexico SA,Brazil,Marketing,BRL,197.96,35.63,Approved,0.53
+TXN-10669,TechInnovate BR,Brazil,Travel & Hotels,BRL,787.79,141.8,Approved,2.13
+TXN-10670,Cafe Colombia Corp,Colombia,Office Supplies,COP,561110.0,134.67,Approved,2.02
+TXN-10671,TechInnovate BR,Colombia,SaaS / Software,COP,147210.0,35.33,Approved,0.53
+TXN-10672,E-commerce LatAm,Brazil,Marketing,BRL,1213.66,218.46,Approved,3.28
+TXN-10673,Fintech Valley,Mexico,SaaS / Software,MXN,740.58,38.51,Approved,0.58
+TXN-10674,TechInnovate BR,Mexico,Office Supplies,MXN,5019.63,261.02,Approved,3.92
+TXN-10675,E-commerce LatAm,Colombia,Marketing,COP,28385.0,6.81,Approved,0.1
+TXN-10676,E-commerce LatAm,Mexico,Office Supplies,MXN,1772.43,92.17,Approved,1.38
+TXN-10677,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,350.43,63.08,Approved,0.95
+TXN-10678,E-commerce LatAm,Colombia,Marketing,COP,127610.0,30.63,Approved,0.46
+TXN-10679,E-commerce LatAm,Brazil,SaaS / Software,BRL,510.8,91.94,Approved,1.38
+TXN-10680,E-commerce LatAm,Brazil,Office Supplies,BRL,618.46,111.32,Approved,1.67
+TXN-10681,E-commerce LatAm,Mexico,Office Supplies,MXN,36.57,1.9,Approved,0.03
+TXN-10682,Logistica Mexico SA,Colombia,SaaS / Software,COP,50665.0,12.16,Approved,0.18
+TXN-10683,Logistica Mexico SA,Colombia,Marketing,COP,317110.0,76.11,Approved,1.14
+TXN-10684,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,1676.64,87.19,Approved,1.31
+TXN-10685,TechInnovate BR,Brazil,Office Supplies,BRL,1701.4,306.25,Declined,4.59
+TXN-10686,E-commerce LatAm,Brazil,SaaS / Software,BRL,725.72,130.63,Approved,1.96
+TXN-10687,TechInnovate BR,Brazil,Office Supplies,BRL,1515.65,272.82,Approved,4.09
+TXN-10688,TechInnovate BR,Brazil,SaaS / Software,BRL,616.24,110.92,Approved,1.66
+TXN-10689,Cafe Colombia Corp,Colombia,Marketing,COP,93475.0,22.43,Approved,0.34
+TXN-10690,E-commerce LatAm,Colombia,Marketing,COP,32835.0,7.88,Approved,0.12
+TXN-10691,E-commerce LatAm,Mexico,SaaS / Software,MXN,2313.69,120.31,Approved,1.8
+TXN-10692,Fintech Valley,Mexico,SaaS / Software,MXN,1579.86,82.15,Approved,1.23
+TXN-10693,TechInnovate BR,Colombia,Marketing,COP,17345.0,4.16,Approved,0.06
+TXN-10694,TechInnovate BR,Colombia,Office Supplies,COP,116590.0,27.98,Approved,0.42
+TXN-10695,Logistica Mexico SA,Brazil,Marketing,BRL,1580.96,284.57,Approved,4.27
+TXN-10696,Fintech Valley,Brazil,Office Supplies,BRL,356.97,64.25,Approved,0.96
+TXN-10697,Logistica Mexico SA,Mexico,SaaS / Software,MXN,880.38,45.78,Approved,0.69
+TXN-10698,Logistica Mexico SA,Colombia,SaaS / Software,COP,157985.0,37.92,Refunded,0.57
+TXN-10699,Logistica Mexico SA,Mexico,Office Supplies,MXN,381.45,19.84,Approved,0.3
+TXN-10700,Cafe Colombia Corp,Colombia,SaaS / Software,COP,119995.0,28.8,Approved,0.43
+TXN-10701,Cafe Colombia Corp,Brazil,Office Supplies,BRL,240.87,43.36,Approved,0.65
+TXN-10702,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,110.67,5.75,Approved,0.09
+TXN-10703,Fintech Valley,Mexico,Marketing,MXN,2218.74,115.37,Approved,1.73
+TXN-10704,TechInnovate BR,Colombia,Travel & Hotels,COP,139680.0,33.52,Approved,0.5
+TXN-10705,Fintech Valley,Brazil,Office Supplies,BRL,873.49,157.23,Approved,2.36
+TXN-10706,E-commerce LatAm,Mexico,Marketing,MXN,2879.16,149.72,Approved,2.25
+TXN-10707,Cafe Colombia Corp,Brazil,Office Supplies,BRL,129.12,23.24,Approved,0.35
+TXN-10708,TechInnovate BR,Mexico,Marketing,MXN,1636.59,85.1,Approved,1.28
+TXN-10709,TechInnovate BR,Brazil,Marketing,BRL,329.6,59.33,Approved,0.89
+TXN-10710,E-commerce LatAm,Colombia,Marketing,COP,535395.0,128.49,Approved,1.93
+TXN-10711,E-commerce LatAm,Mexico,Marketing,MXN,394.53,20.52,Approved,0.31
+TXN-10712,Logistica Mexico SA,Mexico,Office Supplies,MXN,1728.93,89.9,Approved,1.35
+TXN-10713,Cafe Colombia Corp,Brazil,Marketing,BRL,477.93,86.03,Approved,1.29
+TXN-10714,Cafe Colombia Corp,Brazil,Marketing,BRL,184.99,33.3,Approved,0.5
+TXN-10715,Fintech Valley,Mexico,Travel & Hotels,MXN,250.32,13.02,Approved,0.2
+TXN-10716,Logistica Mexico SA,Colombia,SaaS / Software,COP,268630.0,64.47,Approved,0.97
+TXN-10717,Logistica Mexico SA,Brazil,SaaS / Software,BRL,680.85,122.55,Approved,1.84
+TXN-10718,Logistica Mexico SA,Brazil,Travel & Hotels,BRL,199.63,35.93,Approved,0.54
+TXN-10719,Logistica Mexico SA,Brazil,Travel & Hotels,BRL,527.58,94.96,Approved,1.42
+TXN-10720,Cafe Colombia Corp,Mexico,Office Supplies,MXN,784.11,40.77,Approved,0.61
+TXN-10721,Cafe Colombia Corp,Mexico,Office Supplies,MXN,1903.5,98.98,Approved,1.48
+TXN-10722,Logistica Mexico SA,Mexico,Office Supplies,MXN,363.24,18.89,Approved,0.28
+TXN-10723,Fintech Valley,Mexico,Travel & Hotels,MXN,3343.86,173.88,Approved,2.61
+TXN-10724,TechInnovate BR,Colombia,Travel & Hotels,COP,89710.0,21.53,Approved,0.32
+TXN-10725,TechInnovate BR,Colombia,Marketing,COP,119630.0,28.71,Approved,0.43
+TXN-10726,Fintech Valley,Mexico,Office Supplies,MXN,119.76,6.23,Approved,0.09
+TXN-10727,Logistica Mexico SA,Colombia,Office Supplies,COP,34560.0,8.29,Approved,0.12
+TXN-10728,Cafe Colombia Corp,Brazil,Office Supplies,BRL,372.69,67.08,Approved,1.01
+TXN-10729,TechInnovate BR,Brazil,SaaS / Software,BRL,165.71,29.83,Approved,0.45
+TXN-10730,E-commerce LatAm,Brazil,Marketing,BRL,912.36,164.22,Approved,2.46
+TXN-10731,E-commerce LatAm,Mexico,Office Supplies,MXN,52.2,2.71,Approved,0.04
+TXN-10732,Fintech Valley,Brazil,Office Supplies,BRL,248.29,44.69,Approved,0.67
+TXN-10733,Logistica Mexico SA,Colombia,Office Supplies,COP,107875.0,25.89,Approved,0.39
+TXN-10734,TechInnovate BR,Mexico,SaaS / Software,MXN,59.28,3.08,Approved,0.05
+TXN-10735,Logistica Mexico SA,Colombia,SaaS / Software,COP,38200.0,9.17,Declined,0.14
+TXN-10736,TechInnovate BR,Brazil,Travel & Hotels,BRL,276.91,49.84,Approved,0.75
+TXN-10737,Fintech Valley,Brazil,Marketing,BRL,349.49,62.91,Approved,0.94
+TXN-10738,Fintech Valley,Brazil,Travel & Hotels,BRL,269.0,48.42,Approved,0.73
+TXN-10739,E-commerce LatAm,Mexico,Marketing,MXN,1165.53,60.61,Approved,0.91
+TXN-10740,Logistica Mexico SA,Colombia,SaaS / Software,COP,231050.0,55.45,Approved,0.83
+TXN-10741,E-commerce LatAm,Mexico,Office Supplies,MXN,44.97,2.34,Approved,0.04
+TXN-10742,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,965.7,50.22,Approved,0.75
+TXN-10743,E-commerce LatAm,Brazil,Office Supplies,BRL,1665.21,299.74,Approved,4.5
+TXN-10744,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,1127.94,58.65,Approved,0.88
+TXN-10745,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,1727.67,89.84,Declined,1.35
+TXN-10746,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,196.88,35.44,Approved,0.53
+TXN-10747,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,2260.77,117.56,Declined,1.76
+TXN-10748,TechInnovate BR,Brazil,Travel & Hotels,BRL,751.23,135.22,Approved,2.03
+TXN-10749,Cafe Colombia Corp,Brazil,Marketing,BRL,378.34,68.1,Approved,1.02
+TXN-10750,Fintech Valley,Brazil,Travel & Hotels,BRL,1875.14,337.53,Approved,5.06
+TXN-10751,Fintech Valley,Brazil,Marketing,BRL,77.08,13.87,Approved,0.21
+TXN-10752,TechInnovate BR,Mexico,Travel & Hotels,MXN,55.65,2.89,Approved,0.04
+TXN-10753,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,745.18,134.13,Declined,2.01
+TXN-10754,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,832.94,149.93,Approved,2.25
+TXN-10755,Cafe Colombia Corp,Mexico,Office Supplies,MXN,222.09,11.55,Approved,0.17
+TXN-10756,E-commerce LatAm,Mexico,Office Supplies,MXN,493.02,25.64,Approved,0.38
+TXN-10757,Logistica Mexico SA,Colombia,Marketing,COP,9425.0,2.26,Approved,0.03
+TXN-10758,E-commerce LatAm,Mexico,Office Supplies,MXN,550.74,28.64,Declined,0.43
+TXN-10759,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,2255.16,117.27,Approved,1.76
+TXN-10760,Cafe Colombia Corp,Colombia,Travel & Hotels,COP,187430.0,44.98,Approved,0.67
+TXN-10761,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,671.79,34.93,Approved,0.52
+TXN-10762,E-commerce LatAm,Mexico,SaaS / Software,MXN,727.2,37.81,Approved,0.57
+TXN-10763,E-commerce LatAm,Mexico,Office Supplies,MXN,32.04,1.67,Refunded,0.03
+TXN-10764,Logistica Mexico SA,Mexico,Marketing,MXN,564.6,29.36,Approved,0.44
+TXN-10765,Fintech Valley,Colombia,Office Supplies,COP,264940.0,63.59,Approved,0.95
+TXN-10766,Logistica Mexico SA,Mexico,Office Supplies,MXN,5515.74,286.82,Approved,4.3
+TXN-10767,E-commerce LatAm,Mexico,Office Supplies,MXN,2846.58,148.02,Approved,2.22
+TXN-10768,E-commerce LatAm,Colombia,Office Supplies,COP,10970.0,2.63,Approved,0.04
+TXN-10769,TechInnovate BR,Brazil,Travel & Hotels,BRL,1154.15,207.75,Approved,3.12
+TXN-10770,E-commerce LatAm,Colombia,Marketing,COP,387195.0,92.93,Approved,1.39
+TXN-10771,TechInnovate BR,Brazil,Travel & Hotels,BRL,767.92,138.23,Declined,2.07
+TXN-10772,Fintech Valley,Colombia,Marketing,COP,158120.0,37.95,Approved,0.57
+TXN-10773,Logistica Mexico SA,Colombia,SaaS / Software,COP,131875.0,31.65,Approved,0.47
+TXN-10774,Logistica Mexico SA,Mexico,Office Supplies,MXN,571.26,29.71,Declined,0.45
+TXN-10775,TechInnovate BR,Brazil,Travel & Hotels,BRL,43.98,7.92,Approved,0.12
+TXN-10776,Logistica Mexico SA,Mexico,Marketing,MXN,418.62,21.77,Approved,0.33
+TXN-10777,E-commerce LatAm,Brazil,SaaS / Software,BRL,151.58,27.28,Approved,0.41
+TXN-10778,Cafe Colombia Corp,Colombia,SaaS / Software,COP,170450.0,40.91,Approved,0.61
+TXN-10779,TechInnovate BR,Colombia,Office Supplies,COP,349030.0,83.77,Approved,1.26
+TXN-10780,Logistica Mexico SA,Brazil,Marketing,BRL,331.05,59.59,Declined,0.89
+TXN-10781,TechInnovate BR,Mexico,Travel & Hotels,MXN,119.37,6.21,Approved,0.09
+TXN-10782,TechInnovate BR,Mexico,Office Supplies,MXN,4777.65,248.44,Approved,3.73
+TXN-10783,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,4319.82,224.63,Approved,3.37
+TXN-10784,E-commerce LatAm,Mexico,SaaS / Software,MXN,2337.0,121.52,Approved,1.82
+TXN-10785,TechInnovate BR,Colombia,Travel & Hotels,COP,1191910.0,286.06,Approved,4.29
+TXN-10786,Logistica Mexico SA,Colombia,Travel & Hotels,COP,201580.0,48.38,Approved,0.73
+TXN-10787,Fintech Valley,Colombia,Office Supplies,COP,827650.0,198.64,Approved,2.98
+TXN-10788,TechInnovate BR,Colombia,Travel & Hotels,COP,24655.0,5.92,Approved,0.09
+TXN-10789,TechInnovate BR,Colombia,Office Supplies,COP,118800.0,28.51,Approved,0.43
+TXN-10790,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,413.07,21.48,Approved,0.32
+TXN-10791,E-commerce LatAm,Mexico,Office Supplies,MXN,356.91,18.56,Approved,0.28
+TXN-10792,Fintech Valley,Mexico,Office Supplies,MXN,257.64,13.4,Approved,0.2
+TXN-10793,Logistica Mexico SA,Mexico,Marketing,MXN,1490.94,77.53,Approved,1.16
+TXN-10794,Fintech Valley,Colombia,Travel & Hotels,COP,385040.0,92.41,Approved,1.39
+TXN-10795,Logistica Mexico SA,Colombia,SaaS / Software,COP,220865.0,53.01,Approved,0.8
+TXN-10796,E-commerce LatAm,Colombia,Office Supplies,COP,44740.0,10.74,Approved,0.16
+TXN-10797,Logistica Mexico SA,Brazil,SaaS / Software,BRL,843.33,151.8,Approved,2.28
+TXN-10798,Cafe Colombia Corp,Mexico,Marketing,MXN,1545.72,80.38,Approved,1.21
+TXN-10799,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,766.95,39.88,Approved,0.6
+TXN-10800,Cafe Colombia Corp,Colombia,Office Supplies,COP,285315.0,68.48,Approved,1.03
+TXN-10801,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,481.47,25.04,Approved,0.38
+TXN-10802,Fintech Valley,Mexico,Marketing,MXN,665.13,34.59,Approved,0.52
+TXN-10803,E-commerce LatAm,Colombia,Marketing,COP,628695.0,150.89,Approved,2.26
+TXN-10804,Logistica Mexico SA,Brazil,SaaS / Software,BRL,181.6,32.69,Approved,0.49
+TXN-10805,Logistica Mexico SA,Brazil,Office Supplies,BRL,327.43,58.94,Approved,0.88
+TXN-10806,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,1114.28,200.57,Approved,3.01
+TXN-10807,Cafe Colombia Corp,Colombia,Marketing,COP,312510.0,75.0,Approved,1.12
+TXN-10808,TechInnovate BR,Mexico,Travel & Hotels,MXN,126.33,6.57,Approved,0.1
+TXN-10809,E-commerce LatAm,Colombia,SaaS / Software,COP,44840.0,10.76,Approved,0.16
+TXN-10810,Fintech Valley,Colombia,SaaS / Software,COP,6970.0,1.67,Approved,0.03
+TXN-10811,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,1525.11,79.31,Approved,1.19
+TXN-10812,TechInnovate BR,Brazil,SaaS / Software,BRL,306.81,55.23,Approved,0.83
+TXN-10813,TechInnovate BR,Brazil,Travel & Hotels,BRL,82.09,14.78,Approved,0.22
+TXN-10814,Logistica Mexico SA,Colombia,Office Supplies,COP,797130.0,191.31,Approved,2.87
+TXN-10815,Fintech Valley,Brazil,Travel & Hotels,BRL,387.15,69.69,Approved,1.05
+TXN-10816,TechInnovate BR,Colombia,Office Supplies,COP,74235.0,17.82,Approved,0.27
+TXN-10817,TechInnovate BR,Colombia,Travel & Hotels,COP,178590.0,42.86,Approved,0.64
+TXN-10818,E-commerce LatAm,Mexico,Marketing,MXN,1737.36,90.34,Approved,1.36
+TXN-10819,Fintech Valley,Mexico,Marketing,MXN,148.95,7.75,Approved,0.12
+TXN-10820,TechInnovate BR,Mexico,Office Supplies,MXN,511.77,26.61,Approved,0.4
+TXN-10821,Fintech Valley,Colombia,Office Supplies,COP,416220.0,99.89,Approved,1.5
+TXN-10822,Logistica Mexico SA,Mexico,Marketing,MXN,953.34,49.57,Approved,0.74
+TXN-10823,Cafe Colombia Corp,Brazil,Office Supplies,BRL,405.47,72.98,Approved,1.09
+TXN-10824,TechInnovate BR,Brazil,Travel & Hotels,BRL,293.54,52.84,Declined,0.79
+TXN-10825,E-commerce LatAm,Colombia,Travel & Hotels,COP,16225.0,3.89,Approved,0.06
+TXN-10826,Logistica Mexico SA,Colombia,Marketing,COP,50305.0,12.07,Approved,0.18
+TXN-10827,Fintech Valley,Mexico,SaaS / Software,MXN,914.64,47.56,Approved,0.71
+TXN-10828,Logistica Mexico SA,Colombia,Travel & Hotels,COP,63675.0,15.28,Approved,0.23
+TXN-10829,TechInnovate BR,Colombia,Office Supplies,COP,17820.0,4.28,Approved,0.06
+TXN-10830,Fintech Valley,Brazil,SaaS / Software,BRL,937.83,168.81,Approved,2.53
+TXN-10831,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,1996.75,359.42,Approved,5.39
+TXN-10832,Logistica Mexico SA,Mexico,Travel & Hotels,MXN,2393.58,124.47,Approved,1.87
+TXN-10833,TechInnovate BR,Colombia,Travel & Hotels,COP,485670.0,116.56,Approved,1.75
+TXN-10834,E-commerce LatAm,Colombia,SaaS / Software,COP,74260.0,74233.13,Approved,1113.5
+TXN-10835,Fintech Valley,Brazil,SaaS / Software,BRL,1627.34,292.92,Approved,4.39
+TXN-10836,Logistica Mexico SA,Colombia,Marketing,COP,59825.0,14.36,Approved,0.22
+TXN-10837,Logistica Mexico SA,Brazil,Office Supplies,BRL,1522.37,274.03,Approved,4.11
+TXN-10838,Cafe Colombia Corp,Mexico,Marketing,MXN,7924.23,412.06,Refunded,6.18
+TXN-10839,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,631.92,113.75,Approved,1.71
+TXN-10840,E-commerce LatAm,Colombia,Marketing,COP,997725.0,239.45,Approved,3.59
+TXN-10841,E-commerce LatAm,Mexico,Marketing,MXN,1294.35,67.31,Approved,1.01
+TXN-10842,TechInnovate BR,Brazil,Marketing,BRL,160.24,28.84,Approved,0.43
+TXN-10843,TechInnovate BR,Brazil,Marketing,BRL,297.23,53.5,Approved,0.8
+TXN-10844,E-commerce LatAm,Mexico,Office Supplies,MXN,1380.48,71.78,Approved,1.08
+TXN-10845,E-commerce LatAm,Mexico,Office Supplies,MXN,143.82,7.48,Approved,0.11
+TXN-10846,Fintech Valley,Brazil,SaaS / Software,BRL,496.88,89.44,Approved,1.34
+TXN-10847,Cafe Colombia Corp,Colombia,Travel & Hotels,COP,998180.0,239.56,Approved,3.59
+TXN-10848,TechInnovate BR,Brazil,Marketing,BRL,115.43,20.78,Approved,0.31
+TXN-10849,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,2389.62,124.26,Approved,1.86
+TXN-10850,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,1202.43,216.44,Declined,3.25
+TXN-10851,E-commerce LatAm,Mexico,SaaS / Software,MXN,4345.62,225.97,Approved,3.39
+TXN-10852,Fintech Valley,Mexico,Office Supplies,MXN,4863.42,252.9,Refunded,3.79
+TXN-10853,Logistica Mexico SA,Colombia,Marketing,COP,189255.0,45.42,Approved,0.68
+TXN-10854,Fintech Valley,Mexico,Marketing,MXN,5708.61,296.85,Declined,4.45
+TXN-10855,Fintech Valley,Mexico,Travel & Hotels,MXN,2153.97,112.01,Approved,1.68
+TXN-10856,Cafe Colombia Corp,Colombia,Marketing,COP,49085.0,11.78,Approved,0.18
+TXN-10857,Fintech Valley,Mexico,Marketing,MXN,1001.97,52.1,Approved,0.78
+TXN-10858,TechInnovate BR,Colombia,SaaS / Software,COP,321755.0,77.22,Approved,1.16
+TXN-10859,Cafe Colombia Corp,Colombia,Travel & Hotels,COP,76035.0,18.25,Approved,0.27
+TXN-10860,TechInnovate BR,Mexico,Marketing,MXN,1565.04,81.38,Approved,1.22
+TXN-10861,Logistica Mexico SA,Mexico,Office Supplies,MXN,1677.63,87.24,Approved,1.31
+TXN-10862,Cafe Colombia Corp,Brazil,Marketing,BRL,98.79,17.78,Approved,0.27
+TXN-10863,Logistica Mexico SA,Colombia,SaaS / Software,COP,213150.0,51.16,Approved,0.77
+TXN-10864,Cafe Colombia Corp,Brazil,Office Supplies,BRL,748.39,134.71,Approved,2.02
+TXN-10865,E-commerce LatAm,Mexico,SaaS / Software,MXN,1066.41,55.45,Approved,0.83
+TXN-10866,Fintech Valley,Brazil,Marketing,BRL,16.09,2.9,Approved,0.04
+TXN-10867,E-commerce LatAm,Colombia,Office Supplies,COP,7270.0,1.74,Approved,0.03
+TXN-10868,Logistica Mexico SA,Brazil,Travel & Hotels,BRL,230.83,41.55,Approved,0.62
+TXN-10869,Fintech Valley,Colombia,Travel & Hotels,COP,656580.0,157.58,Approved,2.36
+TXN-10870,Cafe Colombia Corp,Mexico,Office Supplies,MXN,419.46,21.81,Approved,0.33
+TXN-10871,Fintech Valley,Mexico,Office Supplies,MXN,1539.18,80.04,Approved,1.2
+TXN-10872,TechInnovate BR,Colombia,SaaS / Software,COP,67780.0,16.27,Approved,0.24
+TXN-10873,Fintech Valley,Mexico,Office Supplies,MXN,612.18,31.83,Approved,0.48
+TXN-10874,TechInnovate BR,Mexico,SaaS / Software,MXN,2856.24,148.52,Approved,2.23
+TXN-10875,Fintech Valley,Mexico,Marketing,MXN,1987.68,103.36,Approved,1.55
+TXN-10876,TechInnovate BR,Mexico,SaaS / Software,MXN,180.39,9.38,Approved,0.14
+TXN-10877,Logistica Mexico SA,Colombia,Office Supplies,COP,144960.0,34.79,Approved,0.52
+TXN-10878,E-commerce LatAm,Brazil,Office Supplies,BRL,24.8,4.46,Approved,0.07
+TXN-10879,Cafe Colombia Corp,Brazil,Marketing,BRL,337.82,60.81,Approved,0.91
+TXN-10880,Fintech Valley,Mexico,Office Supplies,MXN,1659.0,86.27,Approved,1.29
+TXN-10881,E-commerce LatAm,Brazil,Office Supplies,BRL,73.07,13.15,Approved,0.2
+TXN-10882,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,180.46,32.48,Approved,0.49
+TXN-10883,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,790.83,41.12,Approved,0.62
+TXN-10884,TechInnovate BR,Mexico,Marketing,MXN,3809.82,198.11,Approved,2.97
+TXN-10885,Logistica Mexico SA,Brazil,SaaS / Software,BRL,2509.48,451.71,Declined,6.78
+TXN-10886,Logistica Mexico SA,Colombia,Travel & Hotels,COP,16490.0,3.96,Approved,0.06
+TXN-10887,E-commerce LatAm,Mexico,SaaS / Software,MXN,2176.98,113.2,Declined,1.7
+TXN-10888,Logistica Mexico SA,Colombia,Office Supplies,COP,121195.0,29.09,Approved,0.44
+TXN-10889,Fintech Valley,Brazil,Travel & Hotels,BRL,259.17,46.65,Approved,0.7
+TXN-10890,Logistica Mexico SA,Mexico,Marketing,MXN,2135.25,111.03,Approved,1.67
+TXN-10891,E-commerce LatAm,Colombia,Marketing,COP,631560.0,151.57,Approved,2.27
+TXN-10892,Logistica Mexico SA,Mexico,Marketing,MXN,4551.72,236.69,Approved,3.55
+TXN-10893,Fintech Valley,Brazil,Travel & Hotels,BRL,440.34,79.26,Approved,1.19
+TXN-10894,TechInnovate BR,Colombia,SaaS / Software,COP,115450.0,27.71,Approved,0.42
+TXN-10895,E-commerce LatAm,Brazil,Office Supplies,BRL,784.52,141.21,Declined,2.12
+TXN-10896,TechInnovate BR,Brazil,SaaS / Software,BRL,154.51,27.81,Approved,0.42
+TXN-10897,TechInnovate BR,Mexico,SaaS / Software,MXN,1275.42,66.32,Approved,0.99
+TXN-10898,TechInnovate BR,Colombia,Office Supplies,COP,116015.0,27.84,Approved,0.42
+TXN-10899,Cafe Colombia Corp,Brazil,Office Supplies,BRL,544.47,98.0,Approved,1.47
+TXN-10900,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,147.48,26.55,Approved,0.4
+TXN-10901,TechInnovate BR,Colombia,Travel & Hotels,COP,58170.0,13.96,Approved,0.21
+TXN-10902,E-commerce LatAm,Brazil,Travel & Hotels,BRL,1261.98,227.16,Declined,3.41
+TXN-10903,Fintech Valley,Brazil,Travel & Hotels,BRL,63.68,11.46,Approved,0.17
+TXN-10904,Fintech Valley,Colombia,Travel & Hotels,COP,181285.0,43.51,Approved,0.65
+TXN-10905,Logistica Mexico SA,Colombia,Office Supplies,COP,67390.0,16.17,Approved,0.24
+TXN-10906,E-commerce LatAm,Colombia,SaaS / Software,COP,14925.0,3.58,Approved,0.05
+TXN-10907,Cafe Colombia Corp,Colombia,Travel & Hotels,COP,14170.0,3.4,Approved,0.05
+TXN-10908,TechInnovate BR,Mexico,Travel & Hotels,MXN,318.96,16.59,Approved,0.25
+TXN-10909,Logistica Mexico SA,Colombia,SaaS / Software,COP,508920.0,122.14,Approved,1.83
+TXN-10910,Fintech Valley,Mexico,Travel & Hotels,MXN,527.94,27.45,Approved,0.41
+TXN-10911,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,4537.44,235.95,Approved,3.54
+TXN-10912,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,1337.07,69.53,Approved,1.04
+TXN-10913,TechInnovate BR,Brazil,Office Supplies,BRL,296.9,53.44,Approved,0.8
+TXN-10914,Fintech Valley,Mexico,Marketing,MXN,1331.58,69.24,Approved,1.04
+TXN-10915,E-commerce LatAm,Mexico,Office Supplies,MXN,1120.68,58.28,Approved,0.87
+TXN-10916,Cafe Colombia Corp,Brazil,Marketing,BRL,721.02,129.78,Approved,1.95
+TXN-10917,TechInnovate BR,Brazil,Marketing,BRL,175.99,31.68,Approved,0.48
+TXN-10918,E-commerce LatAm,Brazil,Marketing,BRL,227.74,40.99,Approved,0.61
+TXN-10919,Fintech Valley,Colombia,Travel & Hotels,COP,566300.0,135.91,Approved,2.04
+TXN-10920,Cafe Colombia Corp,Brazil,Office Supplies,BRL,1473.63,265.25,Approved,3.98
+TXN-10921,E-commerce LatAm,Brazil,Marketing,BRL,1125.4,202.57,Approved,3.04
+TXN-10922,E-commerce LatAm,Mexico,SaaS / Software,MXN,845.67,43.97,Approved,0.66
+TXN-10923,E-commerce LatAm,Brazil,Travel & Hotels,BRL,767.9,138.22,Approved,2.07
+TXN-10924,Cafe Colombia Corp,Colombia,Office Supplies,COP,166725.0,40.01,Approved,0.6
+TXN-10925,Cafe Colombia Corp,Brazil,Marketing,BRL,354.12,63.74,Approved,0.96
+TXN-10926,Logistica Mexico SA,Colombia,SaaS / Software,COP,62255.0,14.94,Approved,0.22
+TXN-10927,Fintech Valley,Brazil,Office Supplies,BRL,457.18,82.29,Approved,1.23
+TXN-10928,TechInnovate BR,Brazil,Office Supplies,BRL,112.98,20.34,Approved,0.31
+TXN-10929,E-commerce LatAm,Brazil,Travel & Hotels,BRL,211.41,38.05,Approved,0.57
+TXN-10930,Logistica Mexico SA,Brazil,Office Supplies,BRL,975.61,175.61,Approved,2.63
+TXN-10931,TechInnovate BR,Colombia,Travel & Hotels,COP,63005.0,15.12,Declined,0.23
+TXN-10932,Logistica Mexico SA,Colombia,Marketing,COP,23455.0,5.63,Approved,0.08
+TXN-10933,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,137.25,7.14,Approved,0.11
+TXN-10934,E-commerce LatAm,Colombia,SaaS / Software,COP,711645.0,170.79,Declined,2.56
+TXN-10935,TechInnovate BR,Brazil,Travel & Hotels,BRL,363.54,65.44,Approved,0.98
+TXN-10936,TechInnovate BR,Mexico,SaaS / Software,MXN,819.96,42.64,Approved,0.64
+TXN-10937,TechInnovate BR,Mexico,SaaS / Software,MXN,2528.04,38062.75,Approved,570.94
+TXN-10938,TechInnovate BR,Mexico,Office Supplies,MXN,2740.23,142.49,Approved,2.14
+TXN-10939,TechInnovate BR,Brazil,Marketing,BRL,211.88,38.14,Approved,0.57
+TXN-10940,Logistica Mexico SA,Colombia,SaaS / Software,COP,300730.0,72.18,Approved,1.08
+TXN-10941,E-commerce LatAm,Brazil,Travel & Hotels,BRL,747.28,134.51,Approved,2.02
+TXN-10942,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,1624.8,84.49,Approved,1.27
+TXN-10943,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,92.2,16.6,Approved,0.25
+TXN-10944,Cafe Colombia Corp,Brazil,Office Supplies,BRL,1053.27,189.59,Approved,2.84
+TXN-10945,Cafe Colombia Corp,Colombia,Office Supplies,COP,198640.0,47.67,Approved,0.72
+TXN-10946,Logistica Mexico SA,Colombia,SaaS / Software,COP,87985.0,21.12,Approved,0.32
+TXN-10947,Fintech Valley,Mexico,SaaS / Software,MXN,860.67,44.75,Approved,0.67
+TXN-10948,E-commerce LatAm,Brazil,Office Supplies,BRL,29.15,5.25,Approved,0.08
+TXN-10949,TechInnovate BR,Brazil,SaaS / Software,BRL,78.41,14.11,Approved,0.21
+TXN-10950,Fintech Valley,Colombia,Marketing,COP,367625.0,88.23,Approved,1.32
+TXN-10951,Cafe Colombia Corp,Brazil,Marketing,BRL,10.01,1.8,Approved,0.03
+TXN-10952,Fintech Valley,Brazil,Office Supplies,BRL,279.41,50.29,Approved,0.75
+TXN-10953,E-commerce LatAm,Brazil,SaaS / Software,BRL,379.61,68.33,Approved,1.02
+TXN-10954,TechInnovate BR,Colombia,Travel & Hotels,COP,19045.0,4.57,Approved,0.07
+TXN-10955,TechInnovate BR,Mexico,Marketing,MXN,5452.23,283.52,Approved,4.25
+TXN-10956,E-commerce LatAm,Mexico,Office Supplies,MXN,414.51,21.55,Approved,0.32
+TXN-10957,E-commerce LatAm,Brazil,SaaS / Software,BRL,191.35,34.44,Approved,0.52
+TXN-10958,Cafe Colombia Corp,Mexico,Office Supplies,MXN,573.48,29.82,Approved,0.45
+TXN-10959,TechInnovate BR,Colombia,Travel & Hotels,COP,70475.0,16.91,Approved,0.25
+TXN-10960,Fintech Valley,Colombia,Marketing,COP,5370.0,1.29,Approved,0.02
+TXN-10961,Logistica Mexico SA,Mexico,Office Supplies,MXN,1990.35,103.5,Approved,1.55
+TXN-10962,Logistica Mexico SA,Mexico,Office Supplies,MXN,5139.87,267.27,Declined,4.01
+TXN-10963,E-commerce LatAm,Brazil,Office Supplies,BRL,136.99,24.66,Declined,0.37
+TXN-10964,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,1661.73,86.41,Approved,1.3
+TXN-10965,Logistica Mexico SA,Brazil,Office Supplies,BRL,687.2,123.7,Approved,1.86
+TXN-10966,TechInnovate BR,Brazil,Travel & Hotels,BRL,953.34,171.6,Approved,2.57
+TXN-10967,E-commerce LatAm,Colombia,Travel & Hotels,COP,142320.0,34.16,Approved,0.51
+TXN-10968,Fintech Valley,Colombia,Travel & Hotels,COP,95220.0,22.85,Approved,0.34
+TXN-10969,E-commerce LatAm,Colombia,Marketing,COP,103370.0,24.81,Declined,0.37
+TXN-10970,Fintech Valley,Colombia,Marketing,COP,316740.0,76.02,Approved,1.14
+TXN-10971,E-commerce LatAm,Mexico,Office Supplies,MXN,2575.59,133.93,Approved,2.01
+TXN-10972,E-commerce LatAm,Colombia,Office Supplies,COP,55105.0,13.23,Approved,0.2
+TXN-10973,E-commerce LatAm,Mexico,Marketing,MXN,725.31,37.72,Refunded,0.57
+TXN-10974,Fintech Valley,Colombia,SaaS / Software,COP,585545.0,140.53,Approved,2.11
+TXN-10975,Fintech Valley,Mexico,Marketing,MXN,2495.22,129.75,Approved,1.95
+TXN-10976,E-commerce LatAm,Brazil,Travel & Hotels,BRL,2105.15,378.93,Approved,5.68
+TXN-10977,Logistica Mexico SA,Mexico,Marketing,MXN,2135.16,111.03,Approved,1.67
+TXN-10978,Cafe Colombia Corp,Mexico,Travel & Hotels,MXN,779.31,40.52,Approved,0.61
+TXN-10979,Cafe Colombia Corp,Colombia,Office Supplies,COP,228290.0,54.79,Declined,0.82
+TXN-10980,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,1652.7,85.94,Approved,1.29
+TXN-10981,Fintech Valley,Brazil,Office Supplies,BRL,50.85,9.15,Approved,0.14
+TXN-10982,Fintech Valley,Brazil,Travel & Hotels,BRL,403.18,72.57,Approved,1.09
+TXN-10983,Logistica Mexico SA,Colombia,Travel & Hotels,COP,313885.0,75.33,Approved,1.13
+TXN-10984,Cafe Colombia Corp,Brazil,Travel & Hotels,BRL,101.55,18.28,Approved,0.27
+TXN-10985,Cafe Colombia Corp,Mexico,SaaS / Software,MXN,2305.5,119.89,Approved,1.8
+TXN-10986,E-commerce LatAm,Brazil,Marketing,BRL,448.26,80.69,Approved,1.21
+TXN-10987,Fintech Valley,Colombia,Office Supplies,COP,765295.0,183.67,Approved,2.76
+TXN-10988,Cafe Colombia Corp,Mexico,Office Supplies,MXN,95.01,4.94,Approved,0.07
+TXN-10989,Logistica Mexico SA,Colombia,Marketing,COP,82080.0,19.7,Approved,0.3
+TXN-10990,Logistica Mexico SA,Mexico,Office Supplies,MXN,1410.27,73.33,Approved,1.1
+TXN-10991,Cafe Colombia Corp,Brazil,SaaS / Software,BRL,185.89,33.46,Approved,0.5
+TXN-10992,Fintech Valley,Colombia,Office Supplies,COP,318310.0,76.39,Approved,1.15
+TXN-10993,Logistica Mexico SA,Colombia,Travel & Hotels,COP,360745.0,86.58,Approved,1.3
+TXN-10994,E-commerce LatAm,Mexico,Marketing,MXN,192.24,10.0,Approved,0.15
+TXN-10995,Logistica Mexico SA,Colombia,SaaS / Software,COP,185310.0,44.47,Approved,0.67
+TXN-10996,TechInnovate BR,Mexico,Marketing,MXN,1096.62,57.02,Approved,0.86
+TXN-10997,TechInnovate BR,Mexico,SaaS / Software,MXN,721.35,37.51,Approved,0.56
+TXN-10998,Fintech Valley,Mexico,Travel & Hotels,MXN,4082.91,212.31,Approved,3.18
+TXN-10999,Cafe Colombia Corp,Mexico,Marketing,MXN,2666.1,138.64,Approved,2.08

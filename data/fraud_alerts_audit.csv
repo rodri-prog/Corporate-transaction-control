@@ -1,0 +1,6 @@
+transaction_id,company,country,category,amount_usd,Z_Score
+TXN-10204,Fintech Valley,Brazil,SaaS / Software,36672.1,8.750396095061824
+TXN-10472,Logistica Mexico SA,Brazil,SaaS / Software,30289.13,7.212321758241881
+TXN-10566,Cafe Colombia Corp,Brazil,SaaS / Software,82568.33,19.809795327673843
+TXN-10834,E-commerce LatAm,Colombia,SaaS / Software,74233.13,17.80130128614434
+TXN-10937,TechInnovate BR,Mexico,SaaS / Software,38062.75,9.0854945016811
